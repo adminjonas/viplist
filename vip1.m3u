@@ -29,6 +29,8 @@ http://188.113.190.12/5/video.m3u8
 http://188.113.190.12/6/video.m3u8
 #EXTINF:-1,Россия 24
 http://188.113.190.12/7/video.m3u8
+#EXTINF:-1 ,Россия 24 HD
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:-1,Домашний
 http://185.184.234.181:81/udp/225.1.2.14:1234
 #EXTINF:-1,Домашний +7
