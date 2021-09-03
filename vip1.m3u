@@ -62,14 +62,8 @@ http://aqsham.tv/webdav/1000/list.m3u8?_=1
 http://live-alvatv.cdnvideo.ru/alvatv-push/alvatv_720/playlist.m3u8
 #EXTINF:-1 ,34 канал
 http://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
-#EXTINF:-1 ,360
-http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
-#EXTINF:-1 ,360 HD
-http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
-#EXTINF:-1 ,360 Новости
-http://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/2.m3u8
-#EXTINF:-1 ,360 Новости HD
-http://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
+#EXTINF:-1 ,360 (Сургут)
+http://video1.in-news.ru/360/index.m3u8
 #EXTINF:-1 ,43 канал HD
 http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
 #EXTINF:-1 ,43 канал HD
