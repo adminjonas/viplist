@@ -43,22 +43,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 #EXTINF:-1 ,Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
-#EXTINF:-1 ,Paradise HD
-http://195.154.242.229/Paradise_HD/video.m3u8?token=rVJSHMf6r2
-#EXTINF:-1 ,Paradox HD
-http://195.154.242.229/Paradox_HD/video.m3u8?token=rVJSHMf6r2
-#EXTINF:-1 ,Premiere HD
-http://195.154.242.229/Premiere_HD/video.m3u8?token=rVJSHMf6r2
-#EXTINF:-1 ,Premium HD
-http://195.154.242.229/Premium_HD/video.m3u8?token=rVJSHMf6r2
-#EXTINF:-1 ,Serial HD
-http://195.154.242.229/Serial_HD/video.m3u8?token=rVJSHMf6r2
-#EXTINF:-1 ,Thriller HD
-http://195.154.242.229/Thriller_HD/video.m3u8?token=rVJSHMf6r2
-#EXTINF:-1 ,Victory HD
-http://195.154.242.229/Victory_HD/video.m3u8?token=rVJSHMf6r2
-#EXTINF:-1 ,РуКино HD
-http://195.154.242.229/RuKino_HD/video.m3u8?token=rVJSHMf6r2
 
 #EXTINF:-1 ,8 канал
 http://80.94.225.126:8080/8kanalHD/mono.m3u8
