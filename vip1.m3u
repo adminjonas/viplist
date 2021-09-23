@@ -12,6 +12,12 @@ http://91.221.201.2:7100/play/1/index.m3u8
 http://mfe.cliptv.az/dash/HTB_HD.ism/playlist.mpd
 #EXTINF:-1 ,НТВ
 http://91.221.201.2:7100/play/a00h/index.m3u8
+#EXTINF:-1 ,НТВ Право
+http://45.80.44.79:25011/play/a018/index.m3u8
+#EXTINF:-1 ,НТВ Сериал
+http://45.80.44.79:25011/play/a016/index.m3u8
+#EXTINF:-1 ,НТВ Хит
+http://45.80.44.79:25011/play/a014/index.m3u8
 #EXTINF:-1 ,НТВ+ Спорт
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 ,Россия 24 HD
@@ -42,7 +48,12 @@ http://uiptv.do.am/1ufc/113500247/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 #EXTINF:-1 ,Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-
+#EXTINF:-1 ,Мир Сериала
+http://45.80.44.78:25011/play/a021/index.m3u8
+#EXTINF:-1 ,Известия ТВ
+http://hls-igi.cdnvideo.ru/igi/igi_lq/playlist.m3u8
+#EXTINF:-1 ,Известия ТВ HD
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 
 #EXTINF:-1 ,8 канал
 http://80.94.225.126:8080/8kanalHD/mono.m3u8
@@ -396,10 +407,6 @@ http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Звезда International (KZ)
 http://46.34.209.243/btv/SWM/zvezda_int/zvezda_int_576p_2000kbps.m3u8
-#EXTINF:-1 ,Известия ТВ
-http://hls-igi.cdnvideo.ru/igi/igi_lq/playlist.m3u8
-#EXTINF:-1 ,Известия ТВ HD
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 ,Ингушетия ТВ
 http://185.78.112.46:8077/INGUSHETIYA/index.m3u8
 #EXTINF:-1 ,Ингушетия ТВ
