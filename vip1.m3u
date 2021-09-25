@@ -23,9 +23,11 @@ https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 ,Россия 24 HD
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:-1 ,Рен ТВ
-http://176.196.129.10:81/udp/239.255.41.111:1234?zi/
-#EXTINF:-1 ,Рен ТВ
 http://91.221.201.2:7100/play/a00b/index.m3u8
+#EXTINF:-1 ,Рен ТВ
+http://cdntv.online/high/8lzr4evgdc/11.m3u8
+#EXTINF:-1 ,Рен ТВ International
+http://46.34.209.243/btv/SWM/RenTV/RenTV_576p_2000kbps.m3u8
 #EXTINF:-1 ,Домашний
 http://185.184.234.181:81/udp/225.1.2.14:1234
 #EXTINF:-1 ,Пятница HD
@@ -56,6 +58,10 @@ http://45.80.44.78:25011/play/a021/index.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_lq/playlist.m3u8
 #EXTINF:-1 ,Известия ТВ HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 ,РБК ТВ
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+
+
 
 #EXTINF:-1 ,8 канал
 http://80.94.225.126:8080/8kanalHD/mono.m3u8
@@ -569,8 +575,6 @@ http://prm-hls1.cosmonova.net.ua/hls/prm_ua_mid/index.m3u8
 http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
 #EXTINF:-1 ,Пятница Int.
 http://46.34.209.243/btv/SWM/Pyatnica/Pyatnica_576p_2000kbps.m3u8
-#EXTINF:-1 ,РБК ТВ
-http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 #EXTINF:-1 ,РБК ТВ (Екатеринбург)
 http://91.229.235.66:8080/online/rbc_480p/index.m3u8
 #EXTINF:-1 ,РБК ТВ (Екатеринбург)
@@ -583,8 +587,6 @@ http://api-tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
 http://rada-rtmp.adamant.net/hls/rada.m3u8
 #EXTINF:-1 ,Радость Моя
 http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,Рен ТВ Int.
-http://46.34.209.243/btv/SWM/RenTV/RenTV_576p_2000kbps.m3u8
 #EXTINF:-1 ,Россия 1
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 ,Россия 1
