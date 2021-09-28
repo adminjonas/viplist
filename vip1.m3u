@@ -61,36 +61,47 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 ,РБК ТВ
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 
-#EXTINF:-1 ,Dosug TV: CCCP
-http://185.176.222.148:41777
-#EXTINF:-1 ,Dosug TV: VHS
-http://185.176.222.148:37717
-#EXTINF:-1 ,Dosug TV: Comedy
-http://185.176.222.148:31567
-#EXTINF:-1 ,Dosug TV: HIT
-http://185.176.222.148:34034
-#EXTINF:-1 ,Dosug TV: Horror
-http://185.176.222.148:30117
-#EXTINF:-1 ,Dosug TV: Сваты
-http://185.176.222.148:29737
-#EXTINF:-1 ,Dosug TV:  Fantastic
-http://185.176.222.148:33923
-#EXTINF:-1 ,Dosug TV:  Сериал
-http://185.176.222.148:40054
-#EXTINF:-1 ,Dosug TV: Russian
-http://185.176.222.148:38523
-#EXTINF:-1 ,DDosug TV: Kids
-http://185.176.222.148:35895
-#EXTINF:-1 ,Dosug TV: History
-http://185.176.222.148:32415
-#EXTINF:-1 ,Dosug TV: Ходячие Мертвецы
-http://185.176.222.148:20021
-#EXTINF:-1 ,Dosug TV:  Marvel
-http://185.176.222.148:39111
-#EXTINF:-1 ,Dosug TV New
-http://185.176.222.148:50575
-#EXTINF:-1 ,Dosug TV Скорая помощь
-http://185.176.222.148:57777
+#EXTINF:-1 ,TV1000 HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
+#EXTINF:-1 ,TV1000 Action HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
+#EXTINF:-1 ,TV1000 Русское кино
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
+#EXTINF:-1 ,TV1000 World Kino
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/1065/index.m3u8
+#EXTINF:-1 ,VIP Megahit
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
+#EXTINF:-1 ,VIP Premiere
+https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
+#EXTINF:-1 ,VIP Comedy
+https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
+#EXTINF:-1 ,VIP Serial
+https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
+#EXTINF:-1 ,Дорама HD
+http://46.34.209.243:80/btv/SWM/Dorama/Dorama_720p_3500kbps.m3u8
+#EXTINF:-1 ,Киноужас
+http://37.99.5.235:80/btv/SWM/KinoUzhas/KinoUzhas_576p_2000kbps.m3u8
+#EXTINF:-1 ,Мужское кино HD
+http://87.247.44.26/btv/SWM/MuzhskoyeKinoHD/MuzhskoyeKinoHD_1080p_5000kbps.m3u8
+#EXTINF:-1 ,Мужское кино
+http://87.247.44.26/btv/SWM/MuzhskoyeKinoHD/MuzhskoyeKinoHD_720p_3500kbps.m3u8
+#EXTINF:-1 ,Киносвидание HD
+http://87.247.44.26/btv/SWM/Kinosvidanie/Kinosvidanie_1080p_5000kbps.m3u8
+#EXTINF:-1 ,Кинокомедия HD
+http://87.247.44.26/btv/SWM/Kinokomedija/Kinokomedija_1080p_5000kbps.m3u8
+#EXTINF:-1 ,Наше новое кино
+http://46.34.209.243/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_720p_3500kbps.m3u8
+#EXTINF:-1 ,Наше новое кино HD
+http://46.34.209.243/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_1080p_5000kbps.m3u8
+#EXTINF:-1 ,Наше новое кино HD
+http://87.247.44.26/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_1080p_5000kbps.m3u8
+#EXTINF:-1 ,Раменское
+https://rtv.facecast.io/rtv/1.m3u8
+#EXTINF:-1 ,Наше любимое кино
+http://37.99.5.235/btv/SWM/Nashe_Lubimoe_Kino/Nashe_Lubimoe_Kino_576p_2000kbps.m3u8
+#EXTINF:-1 ,Кинохит
+http://pilot.multiscreen.moldtelecom.md/live/eds/kinohit_sd/HLSv3/kinohit_sd.m3u8
+
 
 #EXTINF:-1 ,8 канал
 http://80.94.225.126:8080/8kanalHD/mono.m3u8
