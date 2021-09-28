@@ -61,7 +61,36 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 ,РБК ТВ
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 
-
+#EXTINF:-1 ,Dosug TV: CCCP
+http://185.176.222.148:41777
+#EXTINF:-1 ,Dosug TV: VHS
+http://185.176.222.148:37717
+#EXTINF:-1 ,Dosug TV: Comedy
+http://185.176.222.148:31567
+#EXTINF:-1 ,Dosug TV: HIT
+http://185.176.222.148:34034
+#EXTINF:-1 ,Dosug TV: Horror
+http://185.176.222.148:30117
+#EXTINF:-1 ,Dosug TV: Сваты
+http://185.176.222.148:29737
+#EXTINF:-1 ,Dosug TV:  Fantastic
+http://185.176.222.148:33923
+#EXTINF:-1 ,Dosug TV:  Сериал
+http://185.176.222.148:40054
+#EXTINF:-1 ,Dosug TV: Russian
+http://185.176.222.148:38523
+#EXTINF:-1 ,DDosug TV: Kids
+http://185.176.222.148:35895
+#EXTINF:-1 ,Dosug TV: History
+http://185.176.222.148:32415
+#EXTINF:-1 ,Dosug TV: Ходячие Мертвецы
+http://185.176.222.148:20021
+#EXTINF:-1 ,Dosug TV:  Marvel
+http://185.176.222.148:39111
+#EXTINF:-1 ,Dosug TV New
+http://185.176.222.148:50575
+#EXTINF:-1 ,Dosug TV Скорая помощь
+http://185.176.222.148:57777
 
 #EXTINF:-1 ,8 канал
 http://80.94.225.126:8080/8kanalHD/mono.m3u8
