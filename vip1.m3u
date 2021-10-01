@@ -128,10 +128,6 @@ http://185.220.35.75:3000/stream/7336/8251/290
 http://185.220.35.75:3000/stream/7336/8251/91
 #EXTINF:-1 ,Discovery Ultra 4K
 http://185.220.35.75:3000/stream/7336/8251/1400
-#EXTINF:-1 ,DocuBox HD
-http://185.220.35.75:3000/stream/7336/8251/454
-#EXTINF:-1 ,Food Network HD
-http://185.220.35.75:3000/stream/7336/8251/477
 #EXTINF:-1 ,Galaxy TV
 http://185.220.35.75:3000/stream/7336/8251/294
 #EXTINF:-1 ,Galaxy TV HD
@@ -144,6 +140,10 @@ http://185.220.35.75:3000/stream/7336/8251/93
 http://185.220.35.75:3000/stream/7336/8251/365
 #EXTINF:-1 ,Investigation Discovery HD
 http://185.220.35.75:3000/stream/7336/8251/457
+#EXTINF:-1 ,DocuBox HD
+http://185.220.35.75:3000/stream/7336/8251/454
+#EXTINF:-1 ,Food Network HD
+http://185.220.35.75:3000/stream/7336/8251/477
 
 
 #EXTINF:-1 ,Раменское
