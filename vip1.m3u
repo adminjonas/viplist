@@ -112,6 +112,10 @@ http://45.80.44.93:25002/play/a03d/index.m3u8
 http://45.80.44.93:25002/play/a03a/index.m3u8
 #EXTINF:-1,Русский Бестселлер
 http://45.80.44.93:25002/play/a015/index.m3u8
+#EXTINF:-1,Мосфильм Золотая Коллекция HD
+http://109.239.128.126:8080/mosfilm/tracks-v2a1/mono.m3u8
+#EXTINF:-1,Мосфильм Золотая Коллекция HD
+http://31.131.191.7:8000/play/a054
 #EXTINF:-1 ,Nat Geo Wild
 https://okkotv-live.cdnvideo.ru/channel/NGC_Wild_HD.m3u8
 #EXTINF:-1 ,Viasat History HD
