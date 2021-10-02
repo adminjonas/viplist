@@ -52,8 +52,6 @@ http://uiptv.do.am/1ufc/113500247/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 #EXTINF:-1 ,Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 ,Мир Сериала
-http://45.80.44.78:25011/play/a021/index.m3u8
 #EXTINF:-1 ,Известия ТВ
 http://hls-igi.cdnvideo.ru/igi/igi_lq/playlist.m3u8
 #EXTINF:-1 ,Известия ТВ HD
@@ -104,6 +102,10 @@ http://pilot.multiscreen.moldtelecom.md/live/eds/kinohit_sd/HLSv3/kinohit_sd.m3u
 http://37.99.5.234/btv/SWM/Dom_kino_Prem/Dom_kino_Prem.m3u8
 #EXTINF:-1,Дом кино Премиум HD
 http://37.99.5.234/btv/SWM/Dom_kino_Prem/Dom_kino_Prem_1080p_5000kbps.m3u8
+#EXTINF:-1 ,Мир сериала
+http://188.40.68.167/russia/mir_seriala/playlist.m3u8
+#EXTINF:-1 ,Мир Сериала
+http://45.80.44.78:25011/play/a021/index.m3u8
 #EXTINF:-1,Русский Роман HD
 http://45.80.44.93:25002/play/a03c/index.m3u8
 #EXTINF:-1,Русский Иллюзион
