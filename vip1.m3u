@@ -110,40 +110,50 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
 
 
-#EXTINF:-1 ,Animal Planet HD
-http://185.220.35.75:3000/stream/7336/8251/89
-#EXTINF:-1 ,DTX
-http://185.220.35.75:3000/stream/7336/8251/299
-#EXTINF:-1 ,DTX HD
-http://185.220.35.75:3000/stream/7336/8251/94
-#EXTINF:-1 ,Da Vinci
-http://185.220.35.75:3000/stream/7336/8251/450
-#EXTINF:-1 ,Discovery Channel
-http://185.220.35.75:3000/stream/7336/8251/307
-#EXTINF:-1 ,Discovery Channel HD
-http://185.220.35.75:3000/stream/7336/8251/90
-#EXTINF:-1 ,Discovery Science
-http://185.220.35.75:3000/stream/7336/8251/290
-#EXTINF:-1 ,Discovery Science HD
-http://185.220.35.75:3000/stream/7336/8251/91
-#EXTINF:-1 ,Discovery Ultra 4K
-http://185.220.35.75:3000/stream/7336/8251/1400
-#EXTINF:-1 ,Galaxy TV
-http://185.220.35.75:3000/stream/7336/8251/294
-#EXTINF:-1 ,Galaxy TV HD
-http://185.220.35.75:3000/stream/7336/8251/88
-#EXTINF:-1 ,History 2 HD
-http://185.220.35.75:3000/stream/7336/8251/456
-#EXTINF:-1 ,History HD
-http://185.220.35.75:3000/stream/7336/8251/93
-#EXTINF:-1 ,Investigation Discovery
-http://185.220.35.75:3000/stream/7336/8251/365
-#EXTINF:-1 ,Investigation Discovery HD
-http://185.220.35.75:3000/stream/7336/8251/457
-#EXTINF:-1 ,DocuBox HD
-http://185.220.35.75:3000/stream/7336/8251/454
-#EXTINF:-1 ,Food Network HD
-http://185.220.35.75:3000/stream/7336/8251/477
+#EXTINF:-1,Animal Planet HD
+http://46.34.209.244:80/btv/SWM/animal_hd/animal_hd_1080p_5000kbps.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://46.34.209.244:80/btv/SWM/discovery_hd/discovery_hd_720p_3500kbps.m3u8
+#EXTINF:-1,Discovery Channel FHD
+http://46.34.209.244:80/btv/SWM/discovery_hd/discovery_hd_1080p_5000kbps.m3u8
+#EXTINF:-1,Discovery Channel +
+http://31.131.191.7:8000/play/a021
+#EXTINF:-1,Discovery Channel
+http://80.76.245.198:12284/33
+#EXTINF:-1,Discovery Science
+http://cache2.multiscreen.moldtelecom.md:80/live/eds/discovery_science_hd/HLSv3/discovery_science_hd.m3u8
+#EXTINF:-1,Discovery Science HD
+http://45.80.44.93:25022/play/a04m/index.m3u8
+#EXTINF:-1,Investigation Discovery
+http://45.80.44.93:25022/play/a02l/index.m3u8
+#EXTINF:-1,DTX
+http://31.131.191.7:8000/play/a048
+#EXTINF:-1,History 2 
+http://46.34.209.244:80/btv/SWM/History2HD/History2HD_720p_3500kbps.m3u8
+#EXTINF:-1,History 2 HD
+http://46.34.209.244:80/btv/SWM/History2HD/History2HD_1080p_5000kbps.m3u8
+#EXTINF:-1,DocuBox
+http://31.131.191.7:8000/play/a049
+#EXTINF:-1,Travel+Adventure
+http://pilot.multiscreen.moldtelecom.md/live/eds/travel_adventure_hd/HLSv3/travel_adventure_hd.m3u8
+#EXTINF:-1,HD Life
+http://87.247.44.25:80/btv/SWM/HDLife/HDLife_270p_1200kbps.m3u8
+#EXTINF:-1,HD Life HD
+http://87.247.44.25:80/btv/SWM/HDLife/HDLife_1080p_5000kbps.m3u8
+#EXTINF:-1,NASA TV
+https://helga.iptv2022.com/NASA_TV_Media_eng/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Galaxy
+http://31.131.191.7:8000/play/a03o
+#EXTINF:-1,Загородная Жизнь HD
+http://46.34.209.243:80/btv/SWM/Zagorodnaya_Zhizn/Zagorodnaya_Zhizn_1080p_5000kbps.m3u8
+#EXTINF:-1,Моя Планета
+http://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Моя Планета HD
+http://46.34.209.244:80/btv/SWM/PlanetaHD/PlanetaHD_1080p_5000kbps.m3u8
+#EXTINF:-1,Дикая Охота HD
+http://91.221.201.2:7100/play/a00n/index.m3u8
+#EXTINF:-1,Дикая Рыбалка HD
+http://91.221.201.2:7100/play/a00l/index.m3u8
 
 
 #EXTINF:-1 ,Раменское
