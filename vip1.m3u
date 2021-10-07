@@ -1,10 +1,12 @@
 #EXTM3U  url-tvg="http://ottg.tv/epg.xml.gz"
 
 
-#EXTINF:-1 ,Россия 1 HD
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist.m3u8
-#EXTINF:-1 ,Россия 1 HD
-http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1,Россия 1
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1800000.m3u8
+#EXTINF:-1,Россия 1
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Россия 1 HD
+http://radio-live-mg.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 ,Первый канал HD
 http://edge1.1internet.tv/dash-live11/streams/1tv/1tvdash.mpd
 #EXTINF:-1 ,Первый канал
@@ -23,6 +25,8 @@ http://fwryalta.trkcrimea.ru/yalta.m3u8
 http://45.80.44.79:25011/play/a014/index.m3u8
 #EXTINF:-1 ,НТВ+ Спорт
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1,Россия 24
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 ,Россия 24 HD
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:-1 ,Рен ТВ
@@ -45,6 +49,8 @@ http://37.99.5.234/btv/SWM/TNT/TNT_384p_1000kbps.m3u8
 https://bl.uma.media/live/410338/HLS/6307840_7/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
 #EXTINF:-1 ,ТНТ4 HD
 https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
+#EXTINF:-1,Звезда
+http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
 #EXTINF:-1 ,Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Мир
