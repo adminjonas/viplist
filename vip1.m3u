@@ -13,6 +13,8 @@ http://91.221.201.2:7100/play/1/index.m3u8
 http://mfe.cliptv.az/dash/HTB_HD.ism/playlist.mpd
 #EXTINF:-1 ,НТВ
 http://91.221.201.2:7100/play/a00h/index.m3u8
+#EXTINF:-1 ,НТВ Мир
+http://92.46.127.146:8080/ntv/index.m3u8
 #EXTINF:-1 ,НТВ Право
 http://45.80.44.79:25011/play/a018/index.m3u8
 #EXTINF:-1 ,НТВ Сериал
@@ -601,8 +603,6 @@ http://95.67.106.10/hls/nta_ua_low/index.m3u8
 http://95.67.106.10/hls/nta_ua_hi/index.m3u8
 #EXTINF:-1 ,НТВ Мир
 http://92.46.127.146:8080/ntv/index.m3u8
-#EXTINF:-1 ,НТВ Хит/Ялта 24
-http://fwryalta.trkcrimea.ru/yalta.m3u8
 #EXTINF:-1 ,НТН
 http://edge1.iptv.macc.com.ua/img/ntn_3/index.m3u8
 #EXTINF:-1 ,НТС (Севастополь)
