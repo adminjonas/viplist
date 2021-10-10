@@ -119,6 +119,8 @@ http://45.80.44.78:25011/play/a021/index.m3u8
 http://45.80.44.93:25002/play/a03c/index.m3u8
 #EXTINF:-1,Русский Иллюзион
 http://45.80.44.93:25002/play/a03d/index.m3u8
+#EXTINF:-1,Русский иллюзион
+http://87.117.231.9/iptv/6CBBEEKZV5CG3E/9133/index.m3u8
 #EXTINF:-1,Русский Детектив
 http://45.80.44.93:25002/play/a03a/index.m3u8
 #EXTINF:-1,Русский Бестселлер
@@ -173,6 +175,8 @@ http://87.247.44.25:80/btv/SWM/HDLife/HDLife_1080p_5000kbps.m3u8
 https://helga.iptv2022.com/NASA_TV_Media_eng/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Galaxy
 http://31.131.191.7:8000/play/a03o
+#EXTINF:-1 ,Космо HD
+http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11065/index.m3u8
 #EXTINF:-1,Загородная Жизнь HD
 http://46.34.209.243:80/btv/SWM/Zagorodnaya_Zhizn/Zagorodnaya_Zhizn_1080p_5000kbps.m3u8
 #EXTINF:-1,Моя Планета
