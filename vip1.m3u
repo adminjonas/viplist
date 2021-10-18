@@ -161,6 +161,10 @@ http://31.131.191.7:8000/play/a049
 http://pilot.multiscreen.moldtelecom.md/live/eds/travel_adventure_hd/HLSv3/travel_adventure_hd.m3u8
 #EXTINF:-1 ,NASA TV
 https://helga.iptv2022.com/NASA_TV_Media_eng/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Galaxy
+http://vdbrt.kazaktelekom.com/iptv/XSL5UCASMW32CP/2010/index.m3u8
+#EXTINF:-1,Galaxy 
+http://vdbrt.kazaktelekom.com/iptv/XSL5UCASMW32CP/9317/index.m3u8
 #EXTINF:-1 ,Galaxy
 http://31.131.191.7:8000/play/a03o
 #EXTINF:-1 ,Загородная Жизнь HD
