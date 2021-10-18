@@ -9,12 +9,24 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
 http://edge1.1internet.tv/dash-live11/streams/1tv/1tvdash.mpd
 #EXTINF:-1 ,Первый канал
 http://91.221.201.2:7100/play/1/index.m3u8
-#EXTINF:-1 ,НТВ
+#EXTINF:-1,НТВ
 http://91.221.201.2:7100/play/a00h/index.m3u8
+#EXTINF:-1,НТВ 
+http://185.228.135.48:8080/tv_ntv_sd/tracks-v1a1/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,НТВ HD
+http://185.228.135.48:8080/tv_ntv_hd/tracks-v1a1/index.m3u8?token=em9uYS1pcHR2LnJ1
 #EXTINF:-1 ,НТВ Мир
 http://92.46.127.146:8080/ntv/index.m3u8
 #EXTINF:-1 ,НТВ Хит
 http://fwryalta.trkcrimea.ru/yalta.m3u8
+#EXTINF:-1,НТВ ХИТ 
+http://185.228.135.48:8080/tv_ntv_hit_sd/tracks-v1a1/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,НТВ Право
+http://185.228.135.48:8080/tv_ntv_pravo_sd/tracks-v1a1/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,НТВ Сериал
+http://185.228.135.48:8080/tv_ntv_serial_sd/tracks-v1a1/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1,НТВ Стиль
+http://185.228.135.48:8080/tv_ntv_stil_sd/tracks-v1a1/index.m3u8?token=em9uYS1pcHR2LnJ1
 #EXTINF:-1 ,НТВ+ Спорт
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 ,Россия 24
