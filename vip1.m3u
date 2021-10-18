@@ -73,8 +73,6 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
 #EXTINF:-1 ,Дорама HD
 http://46.34.209.243:80/btv/SWM/Dorama/Dorama_720p_3500kbps.m3u8
-#EXTINF:-1 ,Киноужас
-http://37.99.5.235:80/btv/SWM/KinoUzhas/KinoUzhas_576p_2000kbps.m3u8
 #EXTINF:-1 ,Наше новое кино
 http://46.34.209.243/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_720p_3500kbps.m3u8
 #EXTINF:-1 ,Наше новое кино HD
@@ -107,6 +105,8 @@ http://185.228.135.48:8080/tv_kinomiks_sd/tracks-v1a1/index.m3u8?token=em9uYS1pc
 http://185.228.135.48:8080/tv_kinoseriya_sd/tracks-v1a1/index.m3u8?token=em9uYS1pcHR2LnJ1
 #EXTINF:-1,Киносвидание 
 http://185.228.135.48:8080/tv_kinosvidanie_sd/tracks-v1a1/index.m3u8?token=em9uYS1pcHR2LnJ1
+#EXTINF:-1 ,Киноужас
+http://37.99.5.235:80/btv/SWM/KinoUzhas/KinoUzhas_576p_2000kbps.m3u8
 #EXTINF:-1,Киноужас 
 http://185.228.135.48:8080/tv_kinouzhas_hd/tracks-v1a1/index.m3u8?token=em9uYS1pcHR2LnJ1
 #EXTINF:-1, Комедийное 
