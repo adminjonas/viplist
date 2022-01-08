@@ -12,8 +12,6 @@ http://iptv.ktkru.ru:8001/index.m3u8
 http://iptv.ktkru.ru:8004/index.m3u8
 #EXTINF:-1 ,НТВ
 http://85.192.10.131/hls/NtvRuM9/playlist.m3u8
-#EXTINF:-1 ,НТВ Мир
-http://92.46.127.146:8080/ntv/index.m3u8
 #EXTINF:-1 ,Спортивный HD
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 ,Россия 24
@@ -22,8 +20,6 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/chunklist_b1200000.m3u8
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://iptv.ktkru.ru:8011/index.m3u8
-#EXTINF:-1 ,Рен ТВ International
-http://46.34.209.243/btv/SWM/RenTV/RenTV_576p_2000kbps.m3u8
 #EXTINF:-1 ,Пятница HD
 https://bl.uma.media/live/410336/HLS_R/6307840_7/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
 #EXTINF:-1 ,Пятница
@@ -56,7 +52,6 @@ http://hls-igi.cdnvideo.ru/igi/igi_lq/playlist.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 ,РБК
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
-
 #EXTINF:-1 ,TV1000 HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
 #EXTINF:-1 ,TV1000 Action HD
@@ -71,21 +66,10 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
 #EXTINF:-1 ,VIP Serial
 https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
-#EXTINF:-1 ,Дорама HD
-http://46.34.209.243:80/btv/SWM/Dorama/Dorama_720p_3500kbps.m3u8
-#EXTINF:-1 ,Наше новое кино
-http://46.34.209.243/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_720p_3500kbps.m3u8
-#EXTINF:-1 ,Наше новое кино HD
-http://46.34.209.243/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_1080p_5000kbps.m3u8
-#EXTINF:-1 ,Дом кино Премиум HD
-https://sc.id-tv.kz/domkino_hd_34_35.m3u8
 #EXTINF:-1 ,Мир сериала
 http://188.40.68.167/russia/mir_seriala/playlist.m3u8
-#EXTINF:-1 ,Русский роман
-http://46.149.58.4:4000/play/a02w/index.m3u8
 #EXTINF:-1 ,Мосфильм Золотая Коллекция HD
 http://109.239.128.126:8080/mosfilm/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 ,Nat Geo Wild
 https://okkotv-live.cdnvideo.ru/channel/NGC_Wild_HD.m3u8
 #EXTINF:-1 ,Viasat History HD
@@ -94,22 +78,6 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
 #EXTINF:-1 ,Viasat Explore HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
-#EXTINF:-1 ,Animal Planet HD
-http://46.34.209.244:80/btv/SWM/animal_hd/animal_hd_1080p_5000kbps.m3u8
-#EXTINF:-1 ,Discovery Channel HD
-http://46.34.209.244:80/btv/SWM/discovery_hd/discovery_hd_720p_3500kbps.m3u8
-#EXTINF:-1 ,Discovery Channel HD
-http://46.34.209.244:80/btv/SWM/discovery_hd/discovery_hd_1080p_5000kbps.m3u8
-#EXTINF:-1 ,History 2
-http://46.34.209.244:80/btv/SWM/History2HD/History2HD_720p_3500kbps.m3u8
-#EXTINF:-1 ,History 2 HD
-http://46.34.209.244:80/btv/SWM/History2HD/History2HD_1080p_5000kbps.m3u8
-#EXTINF:-1 ,Загородная Жизнь HD
-http://46.34.209.243:80/btv/SWM/Zagorodnaya_Zhizn/Zagorodnaya_Zhizn_1080p_5000kbps.m3u8
-#EXTINF:-1 ,Моя Планета HD
-http://46.34.209.244:80/btv/SWM/PlanetaHD/PlanetaHD_1080p_5000kbps.m3u8
-#EXTINF:-1 ,Большая Азия HD
-http://zqqnqd4ugp2.a.trbcdn.net/livemaster/p1ccqsyl1m_wi9eaentvqr_tcode720p/chunklist.m3u8
 
 
 #EXTINF:-1 ,12 Канал (Омск)
@@ -118,20 +86,16 @@ http://12channel.bonus-tv.ru/cdn/12channel/playlist_sdhigh.m3u8
 http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 #EXTINF:-1 ,12 Канал HD
 http://12channel.bonus-tv.ru/cdn/omskchannel/playlist.m3u8
-#EXTINF:-1 ,1HD
-https://sc.id-tv.kz/1hd_34_35.m3u8
 #EXTINF:-1 ,1HD Music TV
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,1HD Music TV
+http://live-1.otcnet.ru/onehdweb/index.m3u8
 #EXTINF:-1 ,1Music Channel Hungary
 http://1music.hu/1music.m3u8
 #EXTINF:-1 ,24 канал HD
 http://streamvideol1.luxnet.ua/news24/news24.stream/chunklist.m3u8
-#EXTINF:-1 ,31 канал
-https://sc.id-tv.kz/31Kanal_36_37.m3u8
 #EXTINF:-1 ,31 канал/Акшам ТВ
 http://aqsham.tv/webdav/1000/list.m3u8?_=1
-#EXTINF:-1 ,31 канал/Алва ТВ
-http://live-alvatv.cdnvideo.ru/alvatv-push/alvatv_720/playlist.m3u8
 #EXTINF:-1 ,34 канал
 http://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
 #EXTINF:-1 ,360
@@ -150,10 +114,6 @@ http://sochi-strk.ru:2015/43Kanal/mpegts
 http://49channel.mediacdn.ru/live/cdn/49channel/playlist_sdhigh.m3u8
 #EXTINF:-1 ,7 TV
 http://v4.proofix.ru:80/7tv-live/index.m3u8
-#EXTINF:-1 ,7 канал
-http://92.46.127.146:8080/7Channel/index.m3u8
-#EXTINF:-1 ,7 канал KZ
-https://sc.id-tv.kz/7_kanal_34_35.m3u8
 #EXTINF:-1 ,8 Канал
 http://v4.proofix.ru:80/8tv-russia/index.m3u8
 #EXTINF:-1 ,8 Канал (Крым)
@@ -170,52 +130,26 @@ http://hls-8knsk.cdnvideo.ru/8knsk-mpegts/stream1/playlist.m3u8
 http://80.94.225.126:8080/8kanalHD/mono.m3u8
 #EXTINF:-1 ,8 канал Витебск
 http://95.46.208.8:24433/art
-#EXTINF:-1 ,AIVA HD
-http://live-1.otcnet.ru/aivaya/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,ATR
 http://stream.atr.ua/atr/live/index.m3u8
-#EXTINF:-1 ,ATR
-http://api-tv.ipnet.ua/api/v1/manifest/2007308341.m3u8
-#EXTINF:-1 ,Abai TV
-https://sc.id-tv.kz/AbaiTV_34_35.m3u8
-#EXTINF:-1 ,Abai TV
-https://abaitv-stream.qazcdn.com/abaitv/abaitv/abaitv/abaitv_720/chunks.m3u8
-#EXTINF:-1 ,Almaty TV
-https://sc.id-tv.kz/Almaty_34_35.m3u8
-#EXTINF:-1 ,Almaty TV
-http://92.46.127.146:8080/Almaty/index.m3u8
-#EXTINF:-1 ,Almaty TV (KZ)
-http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
 #EXTINF:-1 ,Arirang TV
 http://cdn-01.bonus-tv.ru:8080/arirang_edge/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,Astana TV
-https://sc.id-tv.kz/Astana_34_35.m3u8
-#EXTINF:-1 ,Atameken Business TV
-https://sc.id-tv.kz/Atameken_36_37.m3u8
 #EXTINF:-1 ,Atameken Business TV (KZ)
 http://live-atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
+#EXTINF:-1 ,Bolt UA
+http://188.40.68.167/russia/bolt/playlist.m3u8
 #EXTINF:-1 ,CGTN Русский
 http://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1 ,Cartoon Network
+#EXTINF:-1 ,Cartoon Network (English)
 http://188.40.68.167/russia/cartoon/playlist.m3u8
-#EXTINF:-1 ,Cinema
-https://sc.id-tv.kz/Cinema_36_37.m3u8
 #EXTINF:-1 ,DW
 http://live-1.otcnet.ru/DW/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,DW English
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
-#EXTINF:-1 ,DW English
-https://sc.id-tv.kz/DW_34_35.m3u8
 #EXTINF:-1 ,DW English HD
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-#EXTINF:-1 ,Da Vinci
-https://sc.id-tv.kz/DaVinci_34_35.m3u8
 #EXTINF:-1 ,Deejay TV
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
-#EXTINF:-1 ,Dombyra TV
-https://sc.id-tv.kz/Dombyra_36_37.m3u8
-#EXTINF:-1 ,Euronews
-https://sc.id-tv.kz/Euronews_36_37.m3u8
 #EXTINF:-1 ,Fox
 http://russia2.livetv.az/russia/fox_russia_sd/playlist.m3u8
 #EXTINF:-1 ,France 24 (ENG)
@@ -224,10 +158,6 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/04.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/01.m3u8
 #EXTINF:-1 ,Fresh ТВ
 http://live-planetaonline.cdnvideo.ru:80/http/smil:channel_4.smil/chunklist_b2628000.m3u8
-#EXTINF:-1 ,Gakku
-http://92.46.127.146:8080/gakku/index.m3u8
-#EXTINF:-1 ,Gakku TV
-https://sc.id-tv.kz/Gakku_34_35.m3u8
 #EXTINF:-1 ,Galaxy TV
 http://188.40.68.167/russia/galaxy/playlist.m3u8
 #EXTINF:-1 ,Global Star TV
@@ -240,16 +170,6 @@ http://188.40.68.167/russia/gulli_girl/playlist.m3u8
 http://95.67.47.114/hls/hdfashion_ua_low/index.m3u8
 #EXTINF:-1 ,HD Fashion & Lifestyle [FHD]
 http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1 ,HITV
-http://rosshow.gcdn.co/streams/1410_290/480n/index.m3u8
-#EXTINF:-1 ,HITV HD
-http://rosshow.gcdn.co/streams/1410_290/1080n/index.m3u8
-#EXTINF:-1 ,Hit Music Channel
-http://hitmusic.hu/hitmusic.m3u8
-#EXTINF:-1 ,Hit TV
-http://92.46.127.146:8080/HitTV-L3-TRANS/index.m3u8
-#EXTINF:-1 ,Hit TV (KZ)
-https://sc.id-tv.kz/HitTV_34_35.m3u8
 #EXTINF:-1 ,ID Fashion TV
 http://idfashion-hls3.cosmonova.net.ua/hls/idfashion_ua_low/index.m3u8
 #EXTINF:-1 ,ID Fashion TV HD
@@ -262,14 +182,6 @@ http://inrating-tv.cdn-04.cosmonova.net.ua/hls/inrating-tv_ua_hi/index.m3u8
 http://188.40.68.167/russia/jimjam/playlist.m3u8
 #EXTINF:-1 ,KINO 24
 http://85.192.10.131/hls/Kino24Ru/playlist.m3u8
-#EXTINF:-1 ,Kazakh TV HD
-http://serv30.vintera.tv:8081/kazahtv/stream_kz/playlist.m3u8
-#EXTINF:-1 ,Kazakh TV HD (ENG)
-http://serv30.vintera.tv:8081/kazahtv/stream_en/playlist.m3u8
-#EXTINF:-1 ,Kazakh TV HD (KG)
-http://serv30.vintera.tv:8081/kazahtv/stream_kg/playlist.m3u8
-#EXTINF:-1 ,Kazakh TV HD (KZ)
-http://serv30.vintera.tv:8081/kazahtv/stream_ru/playlist.m3u8
 #EXTINF:-1 ,Kronehit TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1228000.m3u8
 #EXTINF:-1 ,Kronehit TV HD
@@ -292,9 +204,7 @@ https://d20b9e9hf06guk.cloudfront.net/hls/odesalive.m3u8
 http://nano.teleservice.su:8080/hls/luxury.m3u8
 #EXTINF:-1 ,M2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1 ,MCM Top
-http://live-1.otcnet.ru/mcm/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,MTV 90s
+#EXTINF:-1 ,MTV 80s
 http://188.40.68.167/russia/mtv_dance/playlist.m3u8
 #EXTINF:-1 ,MTV Russia
 http://188.40.68.167/russia/mtv/playlist.m3u8
@@ -304,26 +214,22 @@ http://hls-iptv.tattelecom.ru:80/online_tv_Maydan/tracks-v1a1/index.m3u8
 http://live-maidantv.cdnvideo.ru/maidantv/maidantv_480/playlist.m3u8
 #EXTINF:-1 ,Maidan TV HD
 http://live-maidantv.cdnvideo.ru/maidantv/maidantv_720/playlist.m3u8
-#EXTINF:-1 ,MostVideo TV
-http://wow.stib.com.ua:1935/tv/ch1/playlist_b125000.m3u8
 #EXTINF:-1 ,MostVideo TV HD
 http://w4.mostvideo.tv/tv/ch1.m3u8
-#EXTINF:-1 ,Munara TV
-https://sc.id-tv.kz/MunaraTV_34_35.m3u8
 #EXTINF:-1 ,Muzzone
 http://muzzone-stream.daitsuna.net/muzzondvr/muzzone_dvr/chunks_dvr.m3u8
 #EXTINF:-1 ,Nano TV
 http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1 ,Nat Geo Wild
+http://188.40.68.167/russia/nat_geo_wild_hd/playlist.m3u8
+#EXTINF:-1 ,Nickelodeon
+http://188.40.68.167/russia/nickelodeon/playlist.m3u8
 #EXTINF:-1 ,Paramount Channel
 http://russia2.livetv.az/russia/paramount/playlist.m3u8
+#EXTINF:-1 ,Paramount Comedy
+http://188.40.68.167/russia/paramount_comedy/playlist.m3u8
 #EXTINF:-1 ,Pro 100 TV
 http://85.192.10.131/hls/Pro100tvRu/playlist.m3u8
-#EXTINF:-1 ,QADAM TV
-https://sc.id-tv.kz/QADAMTV_34_35.m3u8
-#EXTINF:-1 ,Qazaqsha Kinoalem
-https://sc.id-tv.kz/QKinoAlem_34_35.m3u8
-#EXTINF:-1 ,Qazaqsha Kinohit
-https://sc.id-tv.kz/QKinoHIT_34_35.m3u8
 #EXTINF:-1 ,RU TV
 https://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
 #EXTINF:-1 ,RU TV HD
@@ -332,10 +238,6 @@ https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 http://shoppinglive.mediacdn.ru/cdn/shopping/playlist_sdhigh.m3u8
 #EXTINF:-1 ,Shopping Live
 http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
-#EXTINF:-1 ,TALIM TV (KZ)
-https://sc.id-tv.kz/TALIMTV_34_35.m3u8
-#EXTINF:-1 ,TLC
-https://sc.id-tv.kz/TLCHD_34_35.m3u8
 #EXTINF:-1 ,TMTV
 http://hls-iptv.tattelecom.ru:80/online_tv_TMTV/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,TV BRICS
@@ -353,21 +255,21 @@ http://st.kglive.asia/hls/tv1bish.m3u8
 #EXTINF:-1 ,TVM Channel
 http://cdn-01.bonus-tv.ru:8080/tvm_edge/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Tiji
+http://live-1.otcnet.ru/TiJi_OT/index.m3u8
+#EXTINF:-1 ,Tiji
 http://188.40.68.167/russia/tiji/playlist.m3u8
 #EXTINF:-1 ,Top Shop TV
 http://live-topshop.cdnvideo.ru/topshop/topshop_576p/playlist.m3u8
+#EXTINF:-1 ,Travel & Adventure HD
+http://live-1.otcnet.ru/tadtmf/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Travel + Adventure HD
 http://live-1.otcnet.ru/ta/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,U Travel
+http://api-tv.ipnet.ua/api/v1/manifest/2118742599.m3u8
 #EXTINF:-1 ,UA TV
 http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_low/index.m3u8
 #EXTINF:-1 ,UA TV HD
 http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
-#EXTINF:-1 ,UA Киев
-http://api-tv.ipnet.ua/api/v1/manifest/2118742484.m3u8
-#EXTINF:-1 ,UA Крым
-http://api-tv.ipnet.ua/api/v1/manifest/2118742409.m3u8
-#EXTINF:-1 ,UA Культура
-http://api-tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
 #EXTINF:-1 ,UA Одесса
 http://cdn10.live-tv.od.ua:8081/odtrkod/odtrkod/playlist.m3u8
 #EXTINF:-1 ,UA Херсон
@@ -386,10 +288,6 @@ http://wfcrus.mediacdn.ru/cdn/wfcrus/playlist_hdhigh.m3u8
 http://wfcint.mediacdn.ru/cdn/wfcint/playlist_sdhigh.m3u8
 #EXTINF:-1 ,WFC TV International HD
 http://wfcint.mediacdn.ru/cdn/wfcint/playlist_hdhigh.m3u8
-#EXTINF:-1 ,Zee TV
-https://sc.id-tv.kz/ZeeTVHD_34_35.m3u8
-#EXTINF:-1 ,Zhuldyz TV
-https://sc.id-tv.kz/ZhuldyzTV_36_37.m3u8
 #EXTINF:-1 ,Абаза ТВ
 http://clients.apsny.camera:8080/tv_abaza_tv/index.m3u8
 #EXTINF:-1 ,Арис 24
@@ -409,7 +307,7 @@ http://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Афонтово HD
 http://80.65.30.139/Afontovo_HD_test/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Афонтово HD
-http://tshift.telecoma.tv:8082/AfontovoHD/tracks-v1a1/mono.m3u8
+http://tshift.telecoma.tv:8082/AfontovoWEB/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,БСТ
 http://bsttv.bonus-tv.ru:80/cdn/bst/playlist_sdhigh.m3u8
 #EXTINF:-1 ,БелРос
@@ -422,12 +320,14 @@ http://95.46.208.8:26258/belarus4
 https://flu.vtv.by/bt4-non-by/index.m3u8
 #EXTINF:-1 ,Беларусь 4 HD Витебск
 http://86.57.251.33/bt4/live/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Бобер
-https://sc.id-tv.kz/bober_34_35.m3u8
 #EXTINF:-1 ,Бьюти ТВ
 http://live-planetaonline.cdnvideo.ru:80/http/smil:channel_134.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 ,Ветта 24
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+#EXTINF:-1 ,Витебск ТВ
+https://flu.vtv.by/tvt-non-by/index.m3u8
+#EXTINF:-1 ,Витебск ТВ
+http://86.57.251.33/tvt-tv/live/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Витрина ТВ
 http://v4.proofix.ru:80/vitrina-live/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Вкусное ТВ
@@ -456,22 +356,16 @@ http://live-1.otcnet.ru/dimgrad/index.m3u8
 http://188.40.68.167/russia/disney/playlist.m3u8
 #EXTINF:-1 ,Домашний
 http://iptv.ktkru.ru:8014/index.m3u8
+#EXTINF:-1 ,Дума ТВ
+http://dumatv2.mediacdn.ru/cdn/dumatv/playlist_sdhigh.m3u8
+#EXTINF:-1 ,Дума ТВ HD
+http://dumatv2.mediacdn.ru/cdn/dumatv/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Евроновости
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
-#EXTINF:-1 ,Ел Арна
-https://sc.id-tv.kz/ElArna_34_35.m3u8
-#EXTINF:-1 ,Ел Арна
-http://elarna-live.cdnvideo.ru/elarna/elarna/chunklist.m3u8
-#EXTINF:-1 ,Ел Арна
-http://92.46.127.146:8080/elarna/index.m3u8
 #EXTINF:-1 ,Енисей
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 ,Жара Kids TV HD
 http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
-#EXTINF:-1 ,Жетысу
-http://92.46.127.146:8080/Zhetysu-L3-TRANS/index.m3u8
-#EXTINF:-1 ,Жетысу ТВ
-https://sc.id-tv.kz/Jetusu_34_35.m3u8
 #EXTINF:-1 ,Звезда
 http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
 #EXTINF:-1 ,Звезда
@@ -494,14 +388,6 @@ http://ingushetia.mediacdn.ru/cdn/ingushetia/playlist_hdhigh.m3u8
 http://edge1.iptv.macc.com.ua/img/inter_3/index.m3u8
 #EXTINF:-1 ,К1
 http://edge1.iptv.macc.com.ua/life/k1_3/index.m3u8
-#EXTINF:-1 ,КМА HD
-https://sc.id-tv.kz/KMA_34_35.m3u8
-#EXTINF:-1 ,КТК
-https://sc.id-tv.kz/KTK_34_35.m3u8
-#EXTINF:-1 ,КТК
-http://89.218.30.37/ktklive/live.hq/playlist.m3u8
-#EXTINF:-1 ,КТК
-http://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/chunklist_b3064000_slrus.m3u8
 #EXTINF:-1 ,Калейдоскоп ТВ
 http://live-1.otcnet.ru/kaleidoskop/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Калейдоскоп ТВ
@@ -510,8 +396,6 @@ http://cdn-01.bonus-tv.ru:8080/Kaleidoskop_edge/index.m3u8
 http://85.192.10.131/hls/Karusel/playlist.m3u8
 #EXTINF:-1 ,Карусель
 http://radio-live-mg.rtr-vesti.ru/hls/karusel/playlist_3.m3u8
-#EXTINF:-1 ,Киев ТВ (HD)
-http://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
 #EXTINF:-1 ,Комедия
 http://188.40.68.167/russia/komediya/playlist.m3u8
 #EXTINF:-1 ,Конный Мир
@@ -550,12 +434,8 @@ http://live.trkmillet.ru/millet/index.m3u8
 http://iptv.ktkru.ru:8018/index.m3u8
 #EXTINF:-1 ,Мир (HD)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 ,Мир 24
+#EXTINF:-1 ,Мир 24 HD
 http://188.40.68.167/russia/mir24/playlist.m3u8
-#EXTINF:-1 ,Мир 24
-https://sc.id-tv.kz/Mir24_34_35.m3u8
-#EXTINF:-1 ,Мир 24
-http://92.46.127.146:8080/Mir-L3-TRANS/index.m3u8
 #EXTINF:-1 ,Мир 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,Мир 24 HD
@@ -570,14 +450,10 @@ http://188.40.68.167/russia/moskva24/playlist.m3u8
 http://radio-live-mg.rtr-vesti.ru/hls/doverie/playlist_3.m3u8
 #EXTINF:-1 ,Моя Планета
 http://radio-live-mg.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 ,Мужской
-https://sc.id-tv.kz/Mujskoi_34_35.m3u8
 #EXTINF:-1 ,Муз ТВ
 http://iptv.ktkru.ru:8020/index.m3u8
 #EXTINF:-1 ,Мультимания LV
 http://85.192.10.131/hls/MultimaniaRu/playlist.m3u8
-#EXTINF:-1 ,НСТ
-https://sc.id-tv.kz/NSTV_34_35.m3u8
 #EXTINF:-1 ,НТА
 http://95.67.106.10/hls/nta_ua_low/index.m3u8
 #EXTINF:-1 ,НТА (Львов) HD
@@ -586,8 +462,6 @@ http://95.67.106.10/hls/nta_ua_hi/index.m3u8
 http://iptv.ktkru.ru:8004/index.m3u8
 #EXTINF:-1 ,НТВ
 http://85.192.10.131/hls/NtvRuM9/playlist.m3u8
-#EXTINF:-1 ,НТВ Мир
-http://92.46.127.146:8080/ntv/index.m3u8
 #EXTINF:-1 ,НТН
 http://edge1.iptv.macc.com.ua/img/ntn_3/index.m3u8
 #EXTINF:-1 ,НТС (Севастополь)
@@ -596,18 +470,14 @@ http://radio.nts-tv.com:1338/nts/video.m3u8
 http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
 #EXTINF:-1 ,Наше ТВ Витебск
 http://95.46.208.8:26259/nashe
-#EXTINF:-1 ,Новое ТВ (KZ)
-https://sc.id-tv.kz/NovoeTelevidenie_34_35.m3u8
-#EXTINF:-1 ,Новое Телевидение
-http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
 #EXTINF:-1 ,Новый Мир
 http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
-#EXTINF:-1 ,О!
-https://sc.id-tv.kz/o_36_37.m3u8
 #EXTINF:-1 ,ОНТ (Инет-вещание)
 https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
 #EXTINF:-1 ,ОТР
 http://iptv.ktkru.ru:8009/index.m3u8
+#EXTINF:-1 ,Оружие
+http://188.40.68.167/russia/oruzhie/playlist.m3u8
 #EXTINF:-1 ,ПРНК
 http://serv25.vintera.tv:8081/1pnk/1pnk/playlist.m3u8
 #EXTINF:-1 ,Первый Деловой
@@ -638,18 +508,8 @@ http://85.192.10.131/hls/ortm9ru/playlist.m3u8
 http://edge1.1internet.tv/dash-live11/streams/1tv/1tvdash.mpd
 #EXTINF:-1 ,Первый канал HD
 http://plmgr-moretv.cdnvideo.ru/1tvstream/playlist.m3u8
-#EXTINF:-1 ,Первый канал HD
-http://91.192.168.251:5050
-#EXTINF:-1 ,Первый канал Евразия
-http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
-#EXTINF:-1 ,Первый канал Евразия
-https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/1tvkz/1tvkz_720/chunks.m3u8
-#EXTINF:-1 ,Победа
-https://sc.id-tv.kz/Pobeda_36_37.m3u8
-#EXTINF:-1 ,Поехали!
-https://sc.id-tv.kz/poehali_34_35.m3u8
-#EXTINF:-1 ,Правда ТУТ
-http://api-tv.ipnet.ua/api/v1/manifest/2118742444.m3u8
+#EXTINF:-1 ,Перший Незалежний
+https://live.pnk.tv/hls/pn/hd.m3u8
 #EXTINF:-1 ,Правда ТУТ Киев
 http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_mid/index.m3u8
 #EXTINF:-1 ,Правда ТУТ Киев HD
@@ -664,8 +524,6 @@ http://prm-hls1.cosmonova.net.ua/hls/prm_ua_mid/index.m3u8
 http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
 #EXTINF:-1 ,Пятница!
 http://iptv.ktkru.ru:8016/index.m3u8
-#EXTINF:-1 ,Пятница! Int.
-https://sc.id-tv.kz/friday_36_37.m3u8
 #EXTINF:-1 ,Пятый канал
 http://iptv.ktkru.ru:8005/index.m3u8
 #EXTINF:-1 ,РБК
@@ -676,16 +534,12 @@ http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 http://91.229.235.66:8080/online/rbc_480p/index.m3u8
 #EXTINF:-1 ,РБК ТВ (Уфа)
 http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1 ,Рада
-http://api-tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
 #EXTINF:-1 ,Рада ТВ
 http://rada-rtmp.adamant.net/hls/rada.m3u8
 #EXTINF:-1 ,Радость Моя
 http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://iptv.ktkru.ru:8011/index.m3u8
-#EXTINF:-1 ,Рен ТВ Int.
-https://sc.id-tv.kz/RenTV_36_37.m3u8
 #EXTINF:-1 ,Россия 1
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 ,Россия 1
@@ -704,6 +558,8 @@ http://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/kuban_r1.smil/chunklist_b1200000.m3u
 http://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/smil:r1_lipetsk.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 ,Россия 1 (Нижний Новгород)
 http://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/smil:nnov.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 ,Россия 1 (Пенза)
+http://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/smil:penza_r1.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 ,Россия 1 (Симферополь)
 http://iptv.ktkru.ru:8002/index.m3u8
 #EXTINF:-1 ,Россия 1 (Сочи)
@@ -762,8 +618,6 @@ http://212.98.171.116/HLS/ctvby/playlist.m3u8
 http://86.57.147.236/HLS/ctvby/playlist.m3u8
 #EXTINF:-1 ,СТВ (Беларусь)
 http://80.94.225.126:8080/STV/mono.m3u8
-#EXTINF:-1 ,СТВ Казахстан
-https://sc.id-tv.kz/STV_36_37.m3u8
 #EXTINF:-1 ,СТРК
 http://sochinskayatrk.ru/hdtv/hls/strk_400/playlist.m3u8
 #EXTINF:-1 ,СТРК HD
@@ -796,6 +650,8 @@ http://live2.mediacdn.ru/sr1/sever/playlist_sdhigh.m3u8
 http://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Симферополь 24
 https://simf.1tvcrimea.ru/show/simferopol24/playlist.m3u8
+#EXTINF:-1 ,Смайлик ТВ HD
+https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
 #EXTINF:-1 ,Сочи 24 HD
 http://serv30.vintera.tv:8081/sochi/sochi24/playlist.m3u8
 #EXTINF:-1 ,Сочи 24 HD
@@ -814,8 +670,6 @@ http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/chunklist_b1703000.m3u8
 http://iptv.ktkru.ru:8010/index.m3u8
 #EXTINF:-1 ,ТВЦ
 http://85.192.10.131/hls/TvciRu/playlist.m3u8
-#EXTINF:-1 ,ТДК 42
-https://sc.id-tv.kz/TDK-42_36_37.m3u8
 #EXTINF:-1 ,ТНВ Планета
 http://tnv.bonus-tv.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ТНВ Татарстан
@@ -824,16 +678,10 @@ http://hls-iptv.tattelecom.ru:80/online_tv_TNV/tracks-v1a1/index.m3u8
 http://iptv.ktkru.ru:8019/index.m3u8
 #EXTINF:-1 ,ТНТ Moldova
 http://89.28.25.122/hls/tnt_md.m3u8
-#EXTINF:-1 ,ТНТ4 Int.
-https://sc.id-tv.kz/tnt4_36_37.m3u8
 #EXTINF:-1 ,Тайна ТВ
 http://tochkatv-live.cdnvideo.ru/tochkatv/tainatv.stream_aac/playlist.m3u8
 #EXTINF:-1 ,Тамыр
 http://bsttv.bonus-tv.ru:80/cdn/tamyr/playlist_sdhigh.m3u8
-#EXTINF:-1 ,Той Думан
-https://sc.id-tv.kz/ToiDuman_34_35.m3u8
-#EXTINF:-1 ,Той Думан
-http://92.46.127.146:8080/toiduman/index.m3u8
 #EXTINF:-1 ,Толпар ТВ
 http://81.30.52.114:80/tolpar_mobile/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Толпар ТВ HD
@@ -842,10 +690,6 @@ http://cdn-01.bonus-tv.ru:8080/tolpartv_origin/playlist.m3u8
 http://81.30.52.114:80/tolpar/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Точка ТВ
 http://tochkatv-live.cdnvideo.ru/tochkatv2/MPEGTS.TOCHKA.stream/playlist.m3u8
-#EXTINF:-1 ,Туран ТВ
-https://sc.id-tv.kz/TuranTV_36_37.m3u8
-#EXTINF:-1 ,Туран ТВ
-http://92.46.127.146:8080/TuranTV-L3-TRANS/index.m3u8
 #EXTINF:-1 ,Тюменское Время
 http://hls-sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
 #EXTINF:-1 ,Тюсо ТВ
@@ -854,18 +698,10 @@ http://tuso.cdn-03.cosmonova.net.ua/hls/tuso_ua_mid/index.m3u8
 http://live-1.otcnet.ru/pravdatv/index.m3u8
 #EXTINF:-1 ,Феникс плюс кино
 http://188.40.68.167/russia/fenix/playlist.m3u8
-#EXTINF:-1 ,Хабар
-https://sc.id-tv.kz/Khabar_34_35.m3u8
-#EXTINF:-1 ,Хабар
-http://92.46.127.146:8080/Khabar-L3-TRANS/index.m3u8
-#EXTINF:-1 ,Хабар 24
-https://sc.id-tv.kz/Khabar_24_34_35.m3u8
 #EXTINF:-1 ,Хабар 24 HD
 http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
 #EXTINF:-1 ,Хабар 24 HD
 http://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
-#EXTINF:-1 ,Халык Арна
-https://sc.id-tv.kz/HalykArna_34_35.m3u8
 #EXTINF:-1 ,ЧП Инфо
 http://edge1.iptv.macc.com.ua/life/magnolia_3/index.m3u8
 #EXTINF:-1 ,Шансон ТВ
@@ -890,8 +726,6 @@ http://live-yamalregion.cdnvideo.ru/yamalregion_mc/yamalregion_mc/chunklist.m3u8
 http://live-yamalregion.cdnvideo.ru/yamalregion_mc/yamalregionhd/playlist.m3u8
 #EXTINF:-1 ,10 канал (Новокузнецк)
 http://kuzbass1.ru:8082/10kanal/10kanal_720/playlist.m3u8
-#EXTINF:-1 ,10 канал (Новосибирск)
-http://serv30.vintera.tv:8081/stanciya_mir/mir/playlist.m3u8
 #EXTINF:-1 ,100% News
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 ,11 канал Полевской
@@ -946,6 +780,8 @@ https://live.prd.dlive.tv/hls/live/mixm.m3u8
 http://retc.educom.ru/mosobrtv/tv2/index.m3u8
 #EXTINF:-1 ,MOSOBR TV HD
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
+#EXTINF:-1 ,Mafi2a Music
+https://live.prd.dlive.tv/hls/live/tv12-gudauta.m3u8
 #EXTINF:-1 ,Millennium TV HD
 http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
 #EXTINF:-1 ,Music History TV
@@ -1010,12 +846,12 @@ http://astvlive.gcdn.co/astv24/astv24.m3u8
 http://hls.atvmedia.ru/atv800.m3u8
 #EXTINF:-1 ,АТВ [HD]
 http://hls.atvmedia.ru/atv.m3u8
+#EXTINF:-1 ,Авторадио [UA] (Веб-камера)
+https://rtmp.radiogroup.com.ua:8080/live/avto/index.m3u8
 #EXTINF:-1 ,Аист ТВ (Иркутск)
 http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 #EXTINF:-1 ,Аист ТВ (Ликино-Дулево)
 http://141.101.205.134:8080/hls/tvaist.m3u8
-#EXTINF:-1 ,Академ ТВ (Суми)
-http://178.20.154.64:8888/atv
 #EXTINF:-1 ,Академия (Одесса)
 http://cdn10.live-tv.od.ua:8081/36chod/36chod/playlist.m3u8
 #EXTINF:-1 ,Алекс TV (Запорожье)
@@ -1056,12 +892,10 @@ http://109.233.169.137/540/b24-540.m3u8
 http://109.233.169.137/hls/b24-hls.m3u8
 #EXTINF:-1 ,Белгород 24
 http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
-#EXTINF:-1 ,Бронницы ТВ
-http://31.31.65.37/hls_get/cameraFeed.m3u8
+#EXTINF:-1 ,Большое Радио [Мурманск] (Веб-камера)
+http://live-bigradio.cdnvideo.ru/bigradio/bigradio.sdp/playlist.m3u8
 #EXTINF:-1 ,ВТВ плюс (Херсон)
 http://video.vtvplus.com.ua:81/hls/online/index.m3u8
-#EXTINF:-1 ,ВТК 41 Аргус (Воронеж)
-http://4kfp3cm483g.a.trbcdn.net/livemaster/rxu69_live-d7gbc25zefk.smil/playlist.m3u8
 #EXTINF:-1 ,Вариант ТВ (Владимир)
 http://variant-v.ru/online/playlist.m3u8
 #EXTINF:-1 ,Вектор 24
@@ -1098,8 +932,6 @@ http://195.138.81.101:8081/hls_sec/239.0.4.18-.m3u8
 http://public-gw.iptv.shadrinsk.net:8088/gorod.m3u8
 #EXTINF:-1 ,Городской телеканал (Ярославль)
 http://www.gtk.tv/hls/gtyar.m3u8
-#EXTINF:-1 ,Губерния (Хабаровск)
-https://media1.gubernia.com/hls/live.m3u8
 #EXTINF:-1 ,Губерния 33 (Владимир)
 http://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8
 #EXTINF:-1 ,Губерния Самара
@@ -1112,8 +944,6 @@ https://v.dzertv.ru:8588/dzertv/live_yandex/tracks-v1a1/mono.m3u8
 http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
 #EXTINF:-1 ,Донбас Online
 http://176.110.1.30:1935/live/donbasonline/playlist.m3u8
-#EXTINF:-1 ,Донеччина TV
-http://stream.dn.ua/hls/stream.m3u8
 #EXTINF:-1 ,Думская TV HD (Одесса)
 http://cdn1.live-tv.od.ua:8081/dumska/dumska720p/playlist.m3u8
 #EXTINF:-1 ,Дядя Ваня ТВ
@@ -1184,8 +1014,6 @@ http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3
 http://185.78.112.46:8077/mtv-stolitca/index.m3u8
 #EXTINF:-1 ,Мариупольское ТВ
 https://live.mariupolskoe.tv:1935/site/MTV_HD.stream/playlist.m3u8
-#EXTINF:-1 ,Медиа 15
-http://185.46.48.18:8080/media15/index.m3u8
 #EXTINF:-1 ,Медиа Информ (Одесса)
 http://91.194.79.124:8081/MediaInform/SD/playlist.m3u8
 #EXTINF:-1 ,Медиа Информ HD
@@ -1195,9 +1023,9 @@ http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 #EXTINF:-1 ,Мир-Бурятия
 http://176.214.199.23:8111/live/playlist.m3u8
 #EXTINF:-1 ,Мисто плюс
-http://37.57.38.252:8080/stream4/stream.m3u8
+https://video.irt.pl.ua/stream4/stream.m3u8
 #EXTINF:-1 ,Мисто плюс HD
-http://37.57.38.252:8080/stream5/stream.m3u8
+https://video.irt.pl.ua/stream5/stream.m3u8
 #EXTINF:-1 ,Мой Дагестан ТВ
 http://185.78.112.46:8077/MAYAK_moydag_channel/index.m3u8
 #EXTINF:-1 ,Мордовия 24
@@ -1224,8 +1052,6 @@ http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 http://serv25.vintera.tv:8081/1pnk/nikitv/playlist.m3u8
 #EXTINF:-1 ,Нирэя (Гомель)
 http://cdnhls.goodgame.ru/hls/165177.m3u8
-#EXTINF:-1 ,Новое Радио (BY)
-https://live.novoeradio.by:444/live/novoe/novoe/playlist.m3u8
 #EXTINF:-1 ,Новое Радио ТВ
 http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b1128000.m3u8
 #EXTINF:-1 ,Новое Радио ТВ HD
@@ -1234,10 +1060,10 @@ http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1024x576@1200/playlist.m3u8
 #EXTINF:-1 ,Новый Век HD
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
-#EXTINF:-1 ,ОТВ (Днепр)
-http://91.193.128.233:1935/live//otv.stream_576p/playlist.m3u8
 #EXTINF:-1 ,ОСН ТВ
 https://osnmedia.gcdn.co/streams/17603_88089/720n/index.m3u8
+#EXTINF:-1 ,ОТВ (Днепр)
+http://91.193.128.233:1935/live//otv.stream_576p/playlist.m3u8
 #EXTINF:-1 ,Обком ТВ
 http://www.omsk-kprf.ru/hls/stream.m3u8
 #EXTINF:-1 ,Общественное Независимое ТВ
@@ -1266,8 +1092,6 @@ http://cdn1.live-tv.od.ua:8081/1tvod/1tvod/playlist.m3u8
 http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
 #EXTINF:-1 ,Первый Западный (Львов)
 http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
-#EXTINF:-1 ,Первый Медицинский канал
-http://mediasphera-htlive.cdn.ngenix.net/live/_definst_/adaptive.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 ,Первый Ростовский
 http://live-yugmedia.cdnvideo.ru/yugmedia/streamtr_480/playlist.m3u8
 #EXTINF:-1 ,Первый Ростовский HD
@@ -1276,6 +1100,8 @@ http://live-yugmedia.cdnvideo.ru/yugmedia/streamtr_1080/playlist.m3u8
 http://1tvtula.ru/tula/1tv_low/index.m3u8
 #EXTINF:-1 ,Первый Тульский HD
 http://1tvtula.ru/tula/1tv_hi/index.m3u8
+#EXTINF:-1 ,Полезное Радио (Феодосия)
+http://webcam.feonet.net:8080/poleznoeradio/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Полтавское ТВ
 http://cdn10.live-tv.od.ua:8081/hrpl/720p/playlist.m3u8
 #EXTINF:-1 ,Прибой ТВ
@@ -1338,8 +1164,6 @@ http://radio-live-mg.rtr-vesti.ru/live/givc9.smil/chunklist_b2600000.m3u8
 http://pilotfm.ru:80/cam/hls/pilothd.m3u8
 #EXTINF:-1 ,Радио Пятница [UA] (Веб-камера)
 https://rtmp.radiogroup.com.ua:8080/live/pt/index.m3u8
-#EXTINF:-1 ,Радио Ретро FM [UA] (Веб-камера)
-https://rtmp.radiogroup.com.ua:8080/live/retro/index.m3u8
 #EXTINF:-1 ,Радио России (Чебоксары)
 http://chgtrk.ru/pl/stream/hls/RR_720p/index.m3u8
 #EXTINF:-1 ,Радио Стрый FM [UA]
@@ -1364,6 +1188,8 @@ http://aw3bw9r75lo.a.trbcdn.net/playlist.m3u8
 http://serv25.vintera.tv:8081/1pnk/rezonans/playlist.m3u8
 #EXTINF:-1 ,Репортер (Одесса)
 http://cdn1.live-tv.od.ua:8081/31chod/31chod/playlist.m3u8
+#EXTINF:-1 ,Репортер 73 HD
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_reporter73/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1 ,Родной канал
 http://n1.slavmir.tv:80/live/ngrp:Cinegy.stream_all/chunklist_b2756000.m3u8
 #EXTINF:-1 ,Родной канал HD
@@ -1396,12 +1222,12 @@ http://saratov24.tv:80/online/izvestia/playlist.php
 http://serv30.vintera.tv:8081/sarov/sarov_stream/playlist.m3u8
 #EXTINF:-1 ,Сварожичи ТВ UA
 http://tv.tv-project.com:1935/live/live1/playlist.m3u8
-#EXTINF:-1 ,Север/Че! +2 (Сургут)
-http://tvsever.ru:8080/hls/ach2.m3u8
 #EXTINF:-1 ,Селенга ТВ
 http://90.188.37.86/live/playlist.m3u8
 #EXTINF:-1 ,Сибай ТВ
 https://stvserver.sibaytv.ru:10083/canals/canal1/stream.m3u8
+#EXTINF:-1 ,Сибирь 24
+https://www.nsktv.ru:48906/hls/live.m3u8
 #EXTINF:-1 ,Сигма ТВ
 http://streamvideol.luxnet.ua/sigmatv/sigmatv.stream/playlist.m3u8
 #EXTINF:-1 ,Снятин ТВ HD
@@ -1411,6 +1237,8 @@ http://109.239.208.82/tilsit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Столото ТВ
 https://user10573.clients-cdnnow.ru/hls/user67240_1_1080p/index.m3u8
 #EXTINF:-1 ,Страна FM ТВ
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm.sdp/playlist.m3u8
+#EXTINF:-1 ,Страна FM ТВ HD
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 ,Сургут 1
 http://sitv.ru/hls/stv1024.m3u8
@@ -1479,13 +1307,11 @@ http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 ,Телплюс ТВ (Астрахань)
 http://streaming.astrakhan.ru/telplushd/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Тео ТВ
-http://teotv.ru:1935/live/site/playlist.m3u8
+https://teotv.ru/live/site/playlist.m3u8
 #EXTINF:-1 ,Тернополь 1
 http://ott2.columbus.te.ua/ternopil1/index.m3u8
 #EXTINF:-1 ,Тивиком (Улан-Удэ)
 http://stream.trafjam.ru/tvcom/studio/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Тим ТВ
-http://194.242.100.24:6666/
 #EXTINF:-1 ,Ток ТВ (Коломна)
 http://toktvonline.ru/video/hls/stream.m3u8
 #EXTINF:-1 ,Тольятти 24
