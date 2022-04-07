@@ -35,11 +35,11 @@ http://uiptv.do.am/1ufc/113500247/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 #EXTINF:-1 ,Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 ,Известия ТВ
+#EXTINF:-1 ,IZVIESTIJA ТВ
 http://hls-igi.cdnvideo.ru/igi/igi_lq/playlist.m3u8
-#EXTINF:-1 ,Известия ТВ HD
+#EXTINF:-1 ,IZVIESTIJA ТВ HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 ,РБК
+#EXTINF:-1 ,RBK
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 #EXTINF:-1 ,Мосфильм Золотая Коллекция HD
 http://109.239.128.126:8080/mosfilm/tracks-v2a1/mono.m3u8
@@ -586,13 +586,13 @@ https://bl.uma.media/live/317844/HLS/4614144_3/2/1/playlist.m3u8
 https://bl.uma.media/live/410336/HLS/6307840_7/2/1/playlist.m3u8
 #EXTINF:-1 ,Пятница! Int.
 https://sc.id-tv.kz/friday_36_37.m3u8
-#EXTINF:-1 ,РБК
+#EXTINF:-1 ,RBK
 https://sc.id-tv.kz/RBK_34_35.m3u8
-#EXTINF:-1 ,РБК HD
+#EXTINF:-1 ,RBK HD
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
-#EXTINF:-1 ,РБК ТВ (Екатеринбург)
+#EXTINF:-1 ,RBK ТВ (Екатеринбург)
 http://91.229.235.66:8080/online/rbc_480p/index.m3u8
-#EXTINF:-1 ,РБК ТВ (Уфа)
+#EXTINF:-1 ,RBK ТВ (Уфа)
 http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1 ,Радость Моя
 http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
