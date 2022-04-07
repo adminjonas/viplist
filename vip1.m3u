@@ -7,7 +7,7 @@ https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA1/variant.m3u8?version=2
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA24/variant.m3u8?version=2
 #EXTINF:-1 ,Piervyj
 http://46.174.83.66/1/index.m3u8
-#EXTINF:-1 ,НТВ
+#EXTINF:-1 ,NTV
 http://85.192.10.131/hls/NtvRuM9/playlist.m3u8
 #EXTINF:-1 ,Спортивный HD
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
@@ -520,9 +520,9 @@ https://sc.id-tv.kz/Mult_34_35.m3u8
 http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 #EXTINF:-1 ,НСТ
 https://sc.id-tv.kz/NSTV_34_35.m3u8
-#EXTINF:-1 ,НТВ Мир
+#EXTINF:-1 ,NTV Мир
 http://92.46.127.146:8080/ntv/index.m3u8
-#EXTINF:-1 ,НТВ Мир
+#EXTINF:-1 ,NTV Мир
 https://sc.id-tv.kz/NTV_34_35.m3u8
 #EXTINF:-1 ,НТС (Севастополь)
 http://radio.nts-tv.com:1338/nts/video.m3u8
@@ -596,7 +596,7 @@ http://91.229.235.66:8080/online/rbc_480p/index.m3u8
 http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1 ,Радость Моя
 http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
-#EXTINF:-1 ,Рен ТВ Int.
+#EXTINF:-1 ,REN ТВ Int.
 https://sc.id-tv.kz/RenTV_36_37.m3u8
 #EXTINF:-1 ,Russia 1
 https://radio-live-mg.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1800000.m3u8
