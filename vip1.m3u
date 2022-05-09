@@ -8,6 +8,9 @@ https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA1/variant.m3u8?version=2
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA24/variant.m3u8?version=2
 #EXTINF:-1 ,Piervyj
 http://46.174.83.66/1/index.m3u8
+#EXTINF:-0 ,Solovjov Live HD
+#EXTGRP:unsorted
+http://128.0.27.41:8080/239.211.211.104/mpegts
 #EXTINF:-1 ,Solovjov live
 https://a787200812-s27836.cdn.ngenix.net/hls2/givc1_hd/playlist_6.m3u8
 #EXTINF:-1,Кинозал! СССР
