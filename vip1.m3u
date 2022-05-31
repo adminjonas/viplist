@@ -45,7 +45,7 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 ,RBK
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 #EXTINF:-1 ,Мосфильм Золотая Коллекция HD
-http://109.239.128.126:8080/mosfilm/tracks-v2a1/mono.m3u8
+http://128.0.27.41:8080/239.211.200.42/mpegts
 
 
 #EXTINF:-1 group-title="BCU" tvg-logo="http://pl.ottg.tv:80/icon/7255.png",BCU Action HD
