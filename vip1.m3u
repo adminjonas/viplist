@@ -1,639 +1,140 @@
 
-#EXTM3U  url-tvg="http://epg.it999.ru/edem.xml.gz"
+#EXTM3U url-tvg="http://iptvx.one/EPG_LITE"
 
 
-#EXTINF:0 catchup-days="5" timeshift="5" tvg-rec="5" tvg-id="pervyhd" tvg-name="Первый_канал" tvg-logo="https://st.playtv.pro/picons/ru/pervyj-hd.png" group-title="Россия базовые",Пеpвый HD
-#EXTGRP:Россия базовые
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/pervyHD/video.m3u8
-#EXTINF:0 catchup-days="5" timeshift="5" tvg-rec="5" tvg-id="pervyhd" tvg-logo="https://st.playtv.pro/picons/ru/pervyj.png" group-title="Россия базовые",Первый канaл
-#EXTGRP:Россия базовые
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/pervy/video.m3u8
-#EXTINF:0 catchup-days="5" timeshift="5" tvg-rec="5" tvg-id="rossia1" tvg-name="Россия_1" tvg-logo="https://st.playtv.pro/picons/ru/rossia-hd.png" group-title="Россия базовые",Роccия 1 HD
-#EXTGRP:Россия базовые
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/rossia1HD/video.m3u8
-#EXTINF:0 catchup-days="5" timeshift="5" tvg-rec="5" tvg-id="rossia1" tvg-logo="https://st.playtv.pro/picons/ru/rossia1.png" group-title="Россия базовые",Росcия 1
-#EXTGRP:Россия базовые
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/rossia1/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="rtr-planeta-eu" tvg-logo="https://st.playtv.pro/picons/ru/rtr-planeta.png" group-title="Россия базовые",РТР Планета
-#EXTGRP:Россия базовые
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/rtrpl/video.m3u8
-#EXTINF:0 catchup-days="5" timeshift="5" tvg-rec="5" tvg-id="ntv" tvg-logo="https://st.playtv.pro/picons/ru/ntvhd.png" group-title="Россия базовые",НTВ HD
-#EXTGRP:Россия базовые
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/ntvHD/video.m3u8
-#EXTINF:0 catchup-days="5" timeshift="5" tvg-rec="5" tvg-id="ntv" tvg-logo="https://st.playtv.pro/picons/ru/ntv-white.png" group-title="Россия базовые",НTВ
-#EXTGRP:Россия базовые
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/ntv/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="ntv-mir" tvg-logo="https://st.playtv.pro/picons/ru/ntvmir.png" group-title="Россия базовые",НТВ Мир
-#EXTGRP:Россия базовые
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/ntv-mir/video.m3u8
-#EXTINF:0 catchup-days="5" timeshift="5" tvg-rec="5" tvg-id="tnt" tvg-logo="https://st.playtv.pro/picons/ru/tnthd.png" group-title="Россия базовые",ТHТ HD
-#EXTGRP:Россия базовые
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/tntHD/video.m3u8
-#EXTINF:0 catchup-days="4" timeshift="4" tvg-rec="4" tvg-id="tnt" tvg-logo="https://st.playtv.pro/picons/ru/tnt.png" group-title="Россия базовые",ТНТ
-#EXTGRP:Россия базовые
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/tnt/video.m3u8
-#EXTINF:0 catchup-days="4" timeshift="4" tvg-rec="4" tvg-id="sts" tvg-name="СТС" tvg-logo="https://st.playtv.pro/picons/ru/sts.png" group-title="Россия базовые",СТС
-#EXTGRP:Россия базовые
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/sts/video.m3u8
-#EXTINF:0 catchup-days="3" timeshift="3" tvg-rec="3" tvg-id="rentv" tvg-logo="https://st.playtv.pro/picons/upl/rentvHD.png" group-title="Россия базовые",РЕН HD
-#EXTGRP:Россия базовые
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/rentvHD/video.m3u8
-#EXTINF:0 catchup-days="5" timeshift="5" tvg-rec="5" tvg-id="rentv" tvg-logo="https://st.playtv.pro/picons/ru/rentv.png" group-title="Россия базовые",РЕН ТВ
-#EXTGRP:Россия базовые
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/rentv/video.m3u8
-#EXTINF:0 catchup-days="3" timeshift="3" tvg-rec="3" tvg-id="tv3-ru" tvg-logo="https://st.playtv.pro/picons/ru/tv3.png" group-title="Россия базовые",ТВ-3 HD
-#EXTGRP:Россия базовые
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/tv3-ru/video.m3u8
-#EXTINF:0 catchup-days="3" timeshift="3" tvg-rec="3" tvg-id="5kanal-ru" tvg-logo="https://st.playtv.pro/picons/ru/5kanal-ru.png" group-title="Россия базовые",Пятый канал
-#EXTGRP:Россия базовые
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/5kanal-ru/video.m3u8
-#EXTINF:0 catchup-days="3" timeshift="3" tvg-rec="3" tvg-id="tvcentr" tvg-logo="https://st.playtv.pro/picons/ru/tvcentr.png" group-title="Россия базовые",ТВ Центр
-#EXTGRP:Россия базовые
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/tvcentr/video.m3u8
-#EXTINF:0 catchup-days="3" timeshift="3" tvg-rec="3" tvg-id="zvezda" tvg-logo="https://st.playtv.pro/picons/ru/zvezda.png" group-title="Россия базовые",Звезда
-#EXTGRP:Россия базовые
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/zvezda/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="otr" tvg-logo="https://st.playtv.pro/picons/ru/otr_ru.png" group-title="Россия базовые",ОТР
-#EXTGRP:Россия базовые
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/otr/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="mir" tvg-logo="https://st.playtv.pro/picons/ru/mir.png" group-title="Россия базовые",Мир
-#EXTGRP:Россия базовые
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/mir/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="kultura" tvg-logo="https://st.playtv.pro/picons/ru/rosskult.png" group-title="Россия базовые",Россия-Культура
-#EXTGRP:Россия базовые
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/rossia-k/video.m3u8
-#EXTINF:0 catchup-days="3" timeshift="3" tvg-rec="3" tvg-id="domashny" tvg-logo="https://st.playtv.pro/picons/ru/domashny.png" group-title="Россия базовые",Домашний
-#EXTGRP:Россия базовые
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/domashny/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="360-podmoskovie" tvg-logo="https://st.playtv.pro/picons/ru/360-podmoskovie.png" group-title="Россия базовые",Телеканал 360°
-#EXTGRP:Россия базовые
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/360-podmoskovie/video.m3u8
-#EXTINF:0 catchup-days="1" timeshift="1" tvg-rec="1" tvg-id="pervy-pl2" tvg-logo="https://st.playtv.pro/picons/ru/pervyj_plus2.png" group-title="Россия +2",Пeрвый канал (+2)
-#EXTGRP:Россия +2
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/pervy-pl2/video.m3u8
-#EXTINF:0 catchup-days="1" timeshift="1" tvg-rec="1" tvg-id="rossia1-pl2" tvg-logo="https://st.playtv.pro/picons/ru/russia1plus2.png" group-title="Россия +2",Росcия 1 (+2)
-#EXTGRP:Россия +2
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/rossia1-pl2/video.m3u8
-#EXTINF:0 catchup-days="1" timeshift="1" tvg-rec="1" tvg-id="pervy-pl4" tvg-logo="https://st.playtv.pro/picons/ru/perviyplus4.png" group-title="Россия +4",Пepвый канал (+4)
-#EXTGRP:Россия +4
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/pervy-pl4/video.m3u8
-#EXTINF:0 catchup-days="1" timeshift="1" tvg-rec="1" tvg-id="rossia1-pl4" tvg-logo="https://st.playtv.pro/picons/ru/rossiaplus4.png" group-title="Россия +4",Роcсия 1 (+4)
-#EXTGRP:Россия +4
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/rossia1-pl4/video.m3u8
-#EXTINF:0 catchup-days="1" timeshift="1" tvg-rec="1" tvg-id="pervy-pl8" tvg-logo="https://st.playtv.pro/picons/ru/perviyplus8.png" group-title="Россия +8",Пеpвый канал (+8)
-#EXTGRP:Россия +8
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/pervy-pl8/video.m3u8
-#EXTINF:0 catchup-days="1" timeshift="1" tvg-rec="1" tvg-id="rossia1-pl8" tvg-logo="https://st.playtv.pro/picons/ru/russiaplus8.png" group-title="Россия +8",Росcия 1 (+8)
-#EXTGRP:Россия +8
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/rossia1-pl8/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="tnt4" tvg-logo="https://st.playtv.pro/picons/ru/tnt4.png" group-title="Развлекательные",ТНТ4
-#EXTGRP:Развлекательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/tnt4/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="sts-love" tvg-logo="https://st.playtv.pro/picons/ru/sts-love.png" group-title="Развлекательные",СТС Love
-#EXTGRP:Развлекательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/sts-love/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="piatnicahd" tvg-name="Пятница" tvg-logo="https://st.playtv.pro/picons/upl/piatnicaHD.png" group-title="Развлекательные",Пятница HD
-#EXTGRP:Развлекательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/piatnicaHD/video.m3u8
-#EXTINF:0 catchup-days="5" timeshift="5" tvg-rec="5" tvg-id="piatnicahd" tvg-logo="https://st.playtv.pro/picons/ru/pyatnica.png" group-title="Развлекательные",Пятница
-#EXTGRP:Развлекательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/piatnica/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="super" tvg-logo="https://st.playtv.pro/picons/ru/super.png" group-title="Развлекательные",Суббота! HD
-#EXTGRP:Развлекательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/super/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="che" tvg-logo="https://st.playtv.pro/picons/ru/che.png" group-title="Развлекательные",Че
-#EXTGRP:Развлекательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/che/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="kvn-tv" tvg-logo="https://st.playtv.pro/picons/ru/kvn-tv.png" group-title="Развлекательные",КВН ТВ
-#EXTGRP:Развлекательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/kvn-tv/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="yu" tvg-logo="https://st.playtv.pro/picons/ru/yu.png" group-title="Развлекательные",Ю
-#EXTGRP:Развлекательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/yu/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="tvoetv" tvg-logo="https://st.playtv.pro/picons/upl/tvoye.png" group-title="Развлекательные",Твоё ТВ HD
-#EXTGRP:Развлекательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/tvoye/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="fanhd" tvg-logo="https://st.playtv.pro/picons/ru/fan.png" group-title="Развлекательные",FAN HD
-#EXTGRP:Развлекательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/fanhd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="fanhd" tvg-logo="https://st.playtv.pro/picons/ru/fan.png" group-title="Развлекательные",FAN
-#EXTGRP:Развлекательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/fan/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="e-tv" tvg-logo="https://st.playtv.pro/picons/ru/e-tv.png" group-title="Развлекательные",E tv
-#EXTGRP:Развлекательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/e-tv/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="history-ru" tvg-logo="https://st.playtv.pro/picons/ru/history_hd.png" group-title="Познавательные",History HD
-#EXTGRP:Познавательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/history-hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="h2" tvg-logo="https://st.playtv.pro/picons/ru/h2.png" group-title="Познавательные",History2 HD
-#EXTGRP:Познавательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/h2/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="viasat-history" tvg-logo="https://st.playtv.pro/picons/ru/viasathistory.ru.png" group-title="Познавательные",Viasat History
-#EXTGRP:Познавательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/viasat-history/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="viasat-nature-history-hd" tvg-logo="https://st.playtv.pro/picons/ru/viasat-nature-history-hd.png" group-title="Познавательные",Viasat Nature/History HD
-#EXTGRP:Познавательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/viasat-nature-history-hd/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="viasat-nature" tvg-logo="https://st.playtv.pro/picons/ru/viasatnature.ru.png" group-title="Познавательные",Viasat Nature
-#EXTGRP:Познавательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/viasat-nature/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="viasat-explore" tvg-logo="https://st.playtv.pro/picons/ru/viasatexplore.ru.png" group-title="Познавательные",Viasat Explore
-#EXTGRP:Познавательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/viasat-explore/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="terra-ru" tvg-logo="https://st.playtv.pro/picons/ru/national-geographic-hd.png" group-title="Познавательные",Terra HD
-#EXTGRP:Познавательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/national-geographicHD/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="terra-ru" tvg-logo="https://st.playtv.pro/picons/ru/natgeo.ru.png" group-title="Познавательные",Terra
-#EXTGRP:Познавательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/national-geographic/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-logo="https://st.playtv.pro/picons/upl/quadro.png" group-title="Познавательные",Quadro
-#EXTGRP:Познавательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/quadro/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="animal-planet" tvg-logo="https://st.playtv.pro/picons/upl/animal-planetHD.png" group-title="Познавательные",Animal Planet HD
-#EXTGRP:Познавательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/animal-planetHD/video.m3u8
-#EXTINF:0 catchup-days="3" timeshift="3" tvg-rec="3" tvg-id="discovery-channel" tvg-logo="https://st.playtv.pro/picons/upl/discovery-channelHD.png" group-title="Познавательные",Discovery Channel HD
-#EXTGRP:Познавательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/discovery-channelHD/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="discovery-science" tvg-logo="https://st.playtv.pro/picons/ru/discovery-science.png" group-title="Познавательные",Discovery Science HD
-#EXTGRP:Познавательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/discovery-scienceHD/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="tlc" tvg-logo="https://st.playtv.pro/picons/upl/tlcHD.png" group-title="Познавательные",TLC HD
-#EXTGRP:Познавательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/tlcHD/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="travel-adventure" tvg-logo="https://st.playtv.pro/picons/upl/travel-adventureHD.png" group-title="Познавательные",Travel+Adventure HD
-#EXTGRP:Познавательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/travel-adventureHD/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="travel-adventure" tvg-logo="https://st.playtv.pro/picons/ru/travel-adventure.png" group-title="Познавательные",Travel+Adventure
-#EXTGRP:Познавательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/travel-adventure/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="rtg-hd" tvg-logo="https://st.playtv.pro/picons/ru/RTG_hd.png" group-title="Познавательные",RTG HD
-#EXTGRP:Познавательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/rtg-hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="moya-planeta" tvg-name="Моя_планета" tvg-logo="https://st.playtv.pro/picons/ru/planeta-hd.png" group-title="Познавательные",Моя планета HD
-#EXTGRP:Познавательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/planeta-hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="moya-planeta" tvg-logo="https://st.playtv.pro/picons/ru/moya-planeta.png" group-title="Познавательные",Моя планета
-#EXTGRP:Познавательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/moya-planeta/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="eureka-hd" tvg-logo="https://st.playtv.pro/picons/ru/eureka-hd.png" group-title="Познавательные",Первый космический
-#EXTGRP:Познавательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/eureka-hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="morskoy" tvg-logo="https://st.playtv.pro/picons/ru/morskoy.png" group-title="Познавательные",Моя стихия
-#EXTGRP:Познавательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/morskoy/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="prikluchenia-hd" tvg-logo="https://st.playtv.pro/picons/ru/priklhd.png" group-title="Познавательные",Приключения HD
-#EXTGRP:Познавательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/prikluchenia-hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="hd-life" tvg-logo="https://st.playtv.pro/picons/ru/hdlife.png" group-title="Познавательные",HDL
-#EXTGRP:Познавательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/hdlife/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="bobior" tvg-logo="https://st.playtv.pro/picons/ru/bober.png" group-title="Познавательные",Бобёр
-#EXTGRP:Познавательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/bobior/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="v-mire-zhivotnyx-hd" tvg-logo="https://st.playtv.pro/picons/ru/v-mire-zhivotnyx.png" group-title="Познавательные",В мире животных HD
-#EXTGRP:Познавательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/v-mire-zhivotnyx-hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="oxotnik-i-rybolov-hd" tvg-logo="https://st.playtv.pro/picons/ru/ohotnikribolov.png" group-title="Познавательные",Охотник и рыболов HD
-#EXTGRP:Познавательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/oxotnik-i-rybolov-hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="oxota-i-rybalka" tvg-logo="https://st.playtv.pro/picons/ru/ohotaribalka.png" group-title="Познавательные",Охота и рыбалка
-#EXTGRP:Познавательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/oxota-i-rybalka/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="dikiy" tvg-logo="https://st.playtv.pro/picons/ru/dikiy.png" group-title="Познавательные",Дикий
-#EXTGRP:Познавательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/dikiy/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="dikaya-oxota-hd" tvg-logo="https://st.playtv.pro/picons/ru/dikaya-oxota-hd.png" group-title="Познавательные",Дикая охота HD
-#EXTGRP:Познавательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/dikaya-oxota-hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="dikaya-rybalka-hd" tvg-logo="https://st.playtv.pro/picons/ru/dikaya-rybalka-hd.png" group-title="Познавательные",Дикая рыбалка HD
-#EXTGRP:Познавательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/dikaya-rybalka-hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="avto-plus" tvg-logo="https://st.playtv.pro/picons/ru/avto-plus.png" group-title="Познавательные",Авто Плюс
-#EXTGRP:Познавательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/avto-plus/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="avto24" tvg-logo="https://st.playtv.pro/picons/ru/avto24.png" group-title="Познавательные",Авто 24
-#EXTGRP:Познавательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/avto24/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="drive" tvg-logo="https://st.playtv.pro/picons/ru/drive.png" group-title="Познавательные",Драйв
-#EXTGRP:Познавательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/drive/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="arsenaltv" tvg-logo="https://st.playtv.pro/picons/ru/arsenal.png" group-title="Познавательные",Арсенал HD
-#EXTGRP:Познавательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/arsenal/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="nauka-20" tvg-logo="https://st.playtv.pro/picons/ru/nauka-20.png" group-title="Познавательные",Наука
-#EXTGRP:Познавательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/nauka-20/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="365-dnej" tvg-logo="https://st.playtv.pro/picons/ru/365-dnej.png" group-title="Познавательные",365 дней ТВ
-#EXTGRP:Познавательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/365-dnej/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="ntv-pravo" tvg-logo="https://st.playtv.pro/picons/ru/ntv-pravo.png" group-title="Познавательные",НТВ Право
-#EXTGRP:Познавательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/ntv-pravo/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="ntv-style" tvg-logo="https://st.playtv.pro/picons/ru/ntv-style.png" group-title="Познавательные",НТВ Стиль
-#EXTGRP:Познавательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/ntv-style/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="food-network" tvg-logo="https://st.playtv.pro/picons/ru/food-network.png" group-title="Познавательные",Food Network HD
-#EXTGRP:Познавательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/food-networkHD/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="eda-hd" tvg-logo="https://st.playtv.pro/picons/ru/eda-hd.png" group-title="Познавательные",Еда Премиум
-#EXTGRP:Познавательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/eda-hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="kuxnia-tv" tvg-logo="https://st.playtv.pro/picons/ru/kuhnia.png" group-title="Познавательные",Кухня ТВ
-#EXTGRP:Познавательные
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/kuhnya/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="tv1000" tvg-logo="https://st.playtv.pro/picons/ru/tv1000.png" group-title="Кино",TV 1000
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/tv1000/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="tv1000-action" tvg-logo="https://st.playtv.pro/picons/ru/tv1000action.png" group-title="Кино",TV 1000 Action
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/tv1000-action/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="tv1000-russkoe-kino" tvg-logo="https://st.playtv.pro/picons/ru/tv1000ruskino.png" group-title="Кино",TV 1000 Русское кино
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/tv1000-russkoe-kino/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="vip-comedy" tvg-logo="https://st.playtv.pro/picons/ru/vip-comedy.png" group-title="Кино",VIP Comedy
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/vip-comedy/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="vip-megahit" tvg-logo="https://st.playtv.pro/picons/ru/vip-megahit.png" group-title="Кино",VIP Megahit
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/vip-megahit/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="vip-premiere" tvg-logo="https://st.playtv.pro/picons/ru/vip-premiere.png" group-title="Кино",VIP Premiere
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/vip-premiere/video.m3u8
-#EXTINF:0 catchup-days="3" timeshift="3" tvg-rec="3" tvg-id="kino-tv" tvg-logo="https://st.playtv.pro/picons/upl/kino-tvhd.png" group-title="Кино",Кино ТВ HD
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/kino-tvhd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="kino-tv" tvg-logo="https://st.playtv.pro/picons/ru/kino-tv.png" group-title="Кино",Кино ТВ
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/kino-tv/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="ostrosiuzhetnoe-hd" tvg-logo="https://st.playtv.pro/picons/ru/ostrosuzet.png" group-title="Кино",Остросюжетное HD
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/ostrosiuzhetnoe-hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="shokiruyushchee-hd" tvg-logo="https://st.playtv.pro/picons/ru/shokiruyushchee.png" group-title="Кино",Шокирующее
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/kinopokaz-hd1/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="premialnoe-hd" tvg-logo="https://st.playtv.pro/picons/ru/kinopremiumhd.png" group-title="Кино",Премиальное HD
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/kinopremium-hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="komedijnoe-hd" tvg-logo="https://st.playtv.pro/picons/ru/komediynoe.png" group-title="Кино",Комедийное HD
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/kinopokaz-hd2/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="evrokino" tvg-logo="https://st.playtv.pro/picons/ru/eurokino.png" group-title="Кино",Еврокино
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/evrokino/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="hollywood-hd" tvg-logo="https://st.playtv.pro/picons/upl/hollywood-hd.png" group-title="Кино",Hollywood HD
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/hollywood-hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="shot-tv" tvg-logo="https://st.playtv.pro/picons/ru/shottv.png" group-title="Кино",SHOT TV
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/shot-tv/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="strashnoe-hd" tvg-logo="https://st.playtv.pro/picons/ru/strashnoe-hd.png" group-title="Кино",Страшное HD
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/strashnoe-hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="nst" tvg-logo="https://st.playtv.pro/picons/ru/nst.png" group-title="Кино",НСТ
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/nst/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="kinokomedia" tvg-logo="https://st.playtv.pro/picons/ru/kinokomedia.png" group-title="Кино",Кинокомедия
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/kinokomedia/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="kinopremiera-hd" tvg-logo="https://st.playtv.pro/picons/ru/kinopremiera.png" group-title="Кино",Кинопремьера HD
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/kinopremiera-hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="kinoxit" tvg-logo="https://st.playtv.pro/picons/ru/kino_xit.png" group-title="Кино",Кинохит
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/kinoxit/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="kinomiks" tvg-logo="https://st.playtv.pro/picons/ru/kinomiks.png" group-title="Кино",Киномикс
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/kinomiks/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="muzhskoe-kino" tvg-logo="https://st.playtv.pro/picons/ru/muzhskoe-kino.png" group-title="Кино",Мужское кино
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/muzhskoe-kino/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="kinosvidanie" tvg-logo="https://st.playtv.pro/picons/ru/kinosvidanie.png" group-title="Кино",Киносвидание
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/kinosvidanie/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="kinosemiya" tvg-logo="https://st.playtv.pro/picons/ru/kinosemia.png" group-title="Кино",Киносемья
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/kinosemiya/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="rodnoe-kino" tvg-logo="https://st.playtv.pro/picons/ru/rodnoe-kino.png" group-title="Кино",Родное кино
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/rodnoe-kino/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="nashe-novoe-kino" tvg-logo="https://st.playtv.pro/picons/ru/nashe-novoe-kino.png" group-title="Кино",Наше новое кино
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/nashe-novoe-kino/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="kinoseria" tvg-logo="https://st.playtv.pro/picons/ru/kinoseria.png" group-title="Кино",Киносерия
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/kinoseria/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="paramount-channel" tvg-logo="https://st.playtv.pro/picons/ru/paramount-channel.png" group-title="Кино",Paramount Channel
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/paramount-channel/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="kineko" tvg-logo="https://st.playtv.pro/picons/upl/foxHD.png" group-title="Кино",Кинеко HD
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/foxHD/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="fox" tvg-logo="https://st.playtv.pro/picons/ru/fox.png" group-title="Кино",Fox
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/fox/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="fox-cis" tvg-logo="https://st.playtv.pro/picons/ru/foxlife.ru.png" group-title="Кино",FoxLife
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/foxlife/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="amedia1" tvg-logo="https://st.playtv.pro/picons/ru/amedia1.png" group-title="Кино",Amedia 1
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/amedia1/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="amedia2" tvg-logo="https://st.playtv.pro/picons/ru/amedia2.png" group-title="Кино",Amedia 2
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/amedia2/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="amedia-hit" tvg-logo="https://st.playtv.pro/picons/ru/amedia-hit.png" group-title="Кино",Amedia Hit
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/amedia-hit/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="amedia-premium" tvg-logo="https://st.playtv.pro/picons/ru/amedia-premium.png" group-title="Кино",Amedia Premium HD
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/amedia-premium/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="sony-tv" tvg-logo="https://st.playtv.pro/picons/ru/sonyentertainment.ru.png" group-title="Кино",Red
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/sony-enter/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="sony-turbo" tvg-logo="https://st.playtv.pro/picons/ru/sony-turbo.png" group-title="Кино",Black
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/sony-turbo/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="sony-scifi" tvg-logo="https://st.playtv.pro/picons/ru/sony-scifi.png" group-title="Кино",Sci-Fi
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/sony-scifi/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="russky-bestseller" tvg-logo="https://st.playtv.pro/picons/ru/rusbestseller.png" group-title="Кино",Русский бестселлер
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/russky-bestseller/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="russky-detektiv" tvg-logo="https://st.playtv.pro/picons/ru/rusdetektiv.png" group-title="Кино",Русский детектив
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/russky-detektiv/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="russky-roman" tvg-logo="https://st.playtv.pro/picons/ru/russky-roman.png" group-title="Кино",Русский роман
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/russky-roman/video.m3u8
-#EXTINF:0 catchup-days="3" timeshift="3" tvg-rec="3" tvg-id="russkaya-komedia" tvg-logo="https://st.playtv.pro/picons/ru/ruskomed.png" group-title="Кино",Русская комедия
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/russkaya-komedia/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="russky-illuzion" tvg-logo="https://st.playtv.pro/picons/ru/rusiluzion.png" group-title="Кино",Русский иллюзион
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/russky-illuzion/video.m3u8
-#EXTINF:0 catchup-days="3" timeshift="3" tvg-rec="3" tvg-id="domkino" tvg-logo="https://st.playtv.pro/picons/ru/dom-kino.png" group-title="Кино",Дом кино
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/domkino/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="domkino-premium" tvg-logo="https://st.playtv.pro/picons/ru/dom-kino-premium.png" group-title="Кино",Дом Кино Премиум HD
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/domkino-premium/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="pobeda" tvg-logo="https://st.playtv.pro/picons/ru/pobeda.png" group-title="Кино",Победа
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/pobeda/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="lubimoe-kino" tvg-logo="https://st.playtv.pro/picons/ru/nashe-lubimoe-kino.png" group-title="Кино",Наше любимое кино
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/nashe-lubimoe-kino/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="nashehd" tvg-logo="https://st.playtv.pro/picons/ru/nashe-krutoe.png" group-title="Кино",Наше крутое HD
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/nash-detektiv/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="nash-kinoroman" tvg-logo="https://st.playtv.pro/picons/ru/nashkinoroman.png" group-title="Кино",Душевное HD
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/nash-kinoroman/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="ntv-serial" tvg-logo="https://st.playtv.pro/picons/ru/ntv-serial.png" group-title="Кино",НТВ Сериал
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/ntv-serial/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="mir-seriala" tvg-logo="https://st.playtv.pro/picons/ru/mir-seriala.png" group-title="Кино",Мир Сериала
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/mir-seriala/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="plan-b" tvg-logo="https://st.playtv.pro/picons/upl/planb.png" group-title="Кино",Plan B HD
-#EXTGRP:Кино
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/planb/video.m3u8
-#EXTINF:0 catchup-days="3" timeshift="3" tvg-rec="3" tvg-id="match-tv" tvg-logo="https://st.playtv.pro/picons/ru/match.png" group-title="Спорт",Матч! HD
-#EXTGRP:Спорт
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/match-tvhd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="match-tv" tvg-logo="https://st.playtv.pro/picons/ru/match.png" group-title="Спорт",Матч ТВ
-#EXTGRP:Спорт
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/match-tv/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="match-planeta" tvg-logo="https://st.playtv.pro/picons/ru/match-planeta.png" group-title="Спорт",Матч! Планета
-#EXTGRP:Спорт
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/match-planeta/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="match-arena" tvg-logo="https://st.playtv.pro/picons/ru/match-arena.png" group-title="Спорт",Матч! Арена HD
-#EXTGRP:Спорт
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/match-arenahd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="match-arena" tvg-logo="https://st.playtv.pro/picons/ru/match-arena.png" group-title="Спорт",Матч! Арена
-#EXTGRP:Спорт
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/match-arena/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="match-igra" tvg-logo="https://st.playtv.pro/picons/ru/match-igra.png" group-title="Спорт",Матч! Игра HD
-#EXTGRP:Спорт
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/match-igrahd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="match-igra" tvg-logo="https://st.playtv.pro/picons/ru/match-igra.png" group-title="Спорт",Матч! Игра
-#EXTGRP:Спорт
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/match-igra/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="match-nash-sport" tvg-logo="https://st.playtv.pro/picons/ru/match-strana.png" group-title="Спорт",Матч! Страна
-#EXTGRP:Спорт
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/match-nash-sport/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="match-boets" tvg-logo="https://st.playtv.pro/picons/ru/match-boec.png" group-title="Спорт",Матч! Боец
-#EXTGRP:Спорт
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/match-boets/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="match-football1" tvg-logo="https://st.playtv.pro/picons/ru/match-football-1.png" group-title="Спорт",Матч! Футбол 1 HD
-#EXTGRP:Спорт
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/match-football1hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="match-football1" tvg-logo="https://st.playtv.pro/picons/ru/match-football-1.png" group-title="Спорт",Матч! Футбол 1
-#EXTGRP:Спорт
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/match-football1/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="match-football2" tvg-logo="https://st.playtv.pro/picons/ru/match-football-2.png" group-title="Спорт",Матч! Футбол 2 HD
-#EXTGRP:Спорт
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/match-football2hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="match-football2" tvg-logo="https://st.playtv.pro/picons/ru/match-football-2.png" group-title="Спорт",Матч! Футбол 2
-#EXTGRP:Спорт
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/match-football2/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="match-football3" tvg-logo="https://st.playtv.pro/picons/ru/match-football-3.png" group-title="Спорт",Матч! Футбол 3 HD
-#EXTGRP:Спорт
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/match-football3hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="match-football3" tvg-logo="https://st.playtv.pro/picons/ru/match-football-3.png" group-title="Спорт",Матч! Футбол 3
-#EXTGRP:Спорт
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/match-football3/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="match-premier" tvg-logo="https://st.playtv.pro/picons/ru/match-premiere.png" group-title="Спорт",Матч! Премьер HD
-#EXTGRP:Спорт
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/match-premierhd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="match-premier" tvg-logo="https://st.playtv.pro/picons/ru/match-premiere.png" group-title="Спорт",Матч! Премьер
-#EXTGRP:Спорт
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/match-premier/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="football-ru" tvg-logo="https://st.playtv.pro/picons/ru/futbol.png" group-title="Спорт",Футбол HD
-#EXTGRP:Спорт
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/football-ru/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="setanta-sports" tvg-logo="https://st.playtv.pro/picons/ru/setanta-sports.png" group-title="Спорт",Setanta Sports 1 HD
-#EXTGRP:Спорт
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/setanta-sports/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="setanta-sports-plus" tvg-logo="https://st.playtv.pro/picons/upl/setanta-sports-plus.png" group-title="Спорт",Setanta Sports 2 HD
-#EXTGRP:Спорт
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/setanta-sports-plus/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="eurosport1" tvg-logo="https://st.playtv.pro/picons/upl/eurosport1hd.png" group-title="Спорт",Eurosport 1 HD
-#EXTGRP:Спорт
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/eurosport1hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="eurosport2" tvg-logo="https://st.playtv.pro/picons/ru/eurosport2.ru.png" group-title="Спорт",Eurosport 2 HD
-#EXTGRP:Спорт
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/eurosport2HD/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="box-tv" tvg-logo="https://st.playtv.pro/picons/ru/box-tv.png" group-title="Спорт",Бокс ТВ
-#EXTGRP:Спорт
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/box-tv/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="ufc" tvg-logo="https://st.playtv.pro/picons/ru/ufctv.png" group-title="Спорт",UDAR HD
-#EXTGRP:Спорт
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/ufc/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="m1global" tvg-logo="https://st.playtv.pro/picons/ru/m-1globaltv.png" group-title="Спорт",MMA-TV
-#EXTGRP:Спорт
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/m1global/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="kxl" tvg-logo="https://st.playtv.pro/picons/ru/khl.png" group-title="Спорт",KHL
-#EXTGRP:Спорт
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/kxl/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="kxl-hd" tvg-logo="https://st.playtv.pro/picons/upl/kxl-hd.png" group-title="Спорт",KHL Prime HD
-#EXTGRP:Спорт
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/kxl-hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="viasat-sport" tvg-logo="https://st.playtv.pro/picons/ru/viasatsport.ru.png" group-title="Спорт",Viasat Sport HD
-#EXTGRP:Спорт
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/viasat-sporthd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="viasat-sport" tvg-logo="https://st.playtv.pro/picons/ru/viasatsport.ru.png" group-title="Спорт",Viasat Sport
-#EXTGRP:Спорт
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/viasat-sport/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="russky-ekstrim" tvg-logo="https://st.playtv.pro/picons/ru/sdrex.png" group-title="Спорт",SD Rex
-#EXTGRP:Спорт
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/russky-ekstrim/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="extreme-sports" tvg-logo="https://st.playtv.pro/picons/ru/extremesports.ru.png" group-title="Спорт",Extreme Sport
-#EXTGRP:Спорт
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/extreme-sports/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="tochka-otryva" tvg-logo="https://st.playtv.pro/picons/ru/tochka-otryva.png" group-title="Спорт",Точка отрыва
-#EXTGRP:Спорт
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/tochka-otryva/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="konny-mir" tvg-logo="https://st.playtv.pro/picons/ru/konniymir.png" group-title="Спорт",Конный мир HD
-#EXTGRP:Спорт
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/konny-mir/video.m3u8
-#EXTINF:0 catchup-days="1" timeshift="1" tvg-rec="1" tvg-id="mtv-russia" tvg-logo="https://st.playtv.pro/picons/ru/mtv.ru.png" group-title="Музыка",MTV
-#EXTGRP:Музыка
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/mtv-russia/video.m3u8
-#EXTINF:0 catchup-days="1" timeshift="1" tvg-rec="1" tvg-id="mtv-live-hd" tvg-logo="https://st.playtv.pro/picons/ru/mtv_live_hd.png" group-title="Музыка",MTV Live HD
-#EXTGRP:Музыка
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/mtv-live/video.m3u8
-#EXTINF:0 catchup-days="1" timeshift="1" tvg-rec="1" tvg-id="vh1-classic" tvg-logo="https://st.playtv.pro/picons/ru/vh1-classic.png" group-title="Музыка",MTV 80s
-#EXTGRP:Музыка
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/vh1-classic/video.m3u8
-#EXTINF:0 catchup-days="1" timeshift="1" tvg-rec="1" tvg-id="mtv-rocks" tvg-logo="https://st.playtv.pro/picons/ru/mtv_rocks.png" group-title="Музыка",MTV 90s
-#EXTGRP:Музыка
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/mtv-rocks/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="5180" tvg-logo="https://st.playtv.pro/picons/upl/vh1euro.png" group-title="Музыка",MTV 00s
-#EXTGRP:Музыка
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/vh1euro/video.m3u8
-#EXTINF:0 catchup-days="1" timeshift="1" tvg-rec="1" tvg-id="bridge-tv" tvg-logo="https://st.playtv.pro/picons/ru/bridge-tv.png" group-title="Музыка",Bridge TV
-#EXTGRP:Музыка
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/bridge-tv/video.m3u8
-#EXTINF:0 catchup-days="1" timeshift="1" tvg-rec="1" tvg-id="bridge-tv-dance" tvg-logo="https://st.playtv.pro/picons/ru/bridge-tv-hits.png" group-title="Музыка",Bridge TV Hits
-#EXTGRP:Музыка
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/bridge-tv-dance/video.m3u8
-#EXTINF:0 catchup-days="1" timeshift="1" tvg-rec="1" tvg-id="bridge-hd" tvg-name="BRIDGE_Deluxe" tvg-logo="https://st.playtv.pro/picons/ru/bridgehd.png" group-title="Музыка",Bridge TV Deluxe
-#EXTGRP:Музыка
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/bridge-hd/video.m3u8
-#EXTINF:0 catchup-days="1" timeshift="1" tvg-rec="1" tvg-id="bridge-tv-classic" tvg-logo="https://st.playtv.pro/picons/ru/bridgetvclassic.png" group-title="Музыка",Bridge TV Classic
-#EXTGRP:Музыка
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/bridge-tv-classic/video.m3u8
-#EXTINF:0 catchup-days="1" timeshift="1" tvg-rec="1" tvg-id="bridge-tv-ruxit" tvg-logo="https://st.playtv.pro/picons/ru/bridgetvrusxit.png" group-title="Музыка",Bridge TV Русский Хит
-#EXTGRP:Музыка
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/bridge-tv-ruxit/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="bridge-tv-shlager" tvg-logo="https://st.playtv.pro/picons/upl/bridge_shlag.png" group-title="Музыка",Bridge TV Шлягер
-#EXTGRP:Музыка
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/bridge_shlag/video.m3u8
-#EXTINF:0 catchup-days="1" timeshift="1" tvg-rec="1" tvg-id="muzyka-pervogo" tvg-logo="https://st.playtv.pro/picons/ru/muzyka-pervogo.png" group-title="Музыка",Музыка первого
-#EXTGRP:Музыка
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/muzyka-pervogo/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="ru-tv" tvg-logo="https://st.playtv.pro/picons/ru/rutv.png" group-title="Музыка",RU.TV
-#EXTGRP:Музыка
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/ru-tv/video.m3u8
-#EXTINF:0 catchup-days="1" timeshift="1" tvg-rec="1" tvg-id="zhara" tvg-logo="https://st.playtv.pro/picons/ru/zara.png" group-title="Музыка",Жара
-#EXTGRP:Музыка
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/zhara/video.m3u8
-#EXTINF:0 catchup-days="1" timeshift="1" tvg-rec="1" tvg-id="muztv" tvg-logo="https://st.playtv.pro/picons/ru/muztv.png" group-title="Музыка",Муз-ТВ
-#EXTGRP:Музыка
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/muztv/video.m3u8
-#EXTINF:0 catchup-days="1" timeshift="1" tvg-rec="1" tvg-id="tnt-music" tvg-logo="https://st.playtv.pro/picons/ru/tnt-music.png" group-title="Музыка",ТНТ MUSIC
-#EXTGRP:Музыка
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/tnt-music/video.m3u8
-#EXTINF:0 catchup-days="1" timeshift="1" tvg-rec="1" tvg-id="europa-plus-tv" tvg-logo="https://st.playtv.pro/picons/ru/europaplustv.png" group-title="Музыка",Europa Plus TV
-#EXTGRP:Музыка
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/europa-plus-tv/video.m3u8
-#EXTINF:0 catchup-days="1" timeshift="1" tvg-rec="1" tvg-id="mcm-top" tvg-logo="https://st.playtv.pro/picons/ru/mcm-top.png" group-title="Музыка",MCM Top
-#EXTGRP:Музыка
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/mcm-top/video.m3u8
-#EXTINF:0 catchup-days="0" tvg-id="la-minor" tvg-logo="https://st.playtv.pro/picons/ru/laminor.png" group-title="Музыка",Ля-минор
-#EXTGRP:Музыка
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/la-minor/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="karusel" tvg-logo="https://st.playtv.pro/picons/ru/karusel.png" group-title="Детские",Карусель
-#EXTGRP:Детские
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/karusel/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="mult" tvg-logo="https://st.playtv.pro/picons/ru/mult.png" group-title="Детские",Мульт HD
-#EXTGRP:Детские
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/tlum-hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="mult" tvg-logo="https://st.playtv.pro/picons/ru/mult.png" group-title="Детские",Мульт
-#EXTGRP:Детские
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/mult/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="multimuzyka" tvg-logo="https://st.playtv.pro/picons/ru/multimuzyka.png" group-title="Детские",Мультимузыка
-#EXTGRP:Детские
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/multimuzyka/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="detsky-mir" tvg-logo="https://st.playtv.pro/picons/ru/detmir.png" group-title="Детские",Детский мир
-#EXTGRP:Детские
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/detsky-mir/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="sts-kids-hd" tvg-logo="https://st.playtv.pro/picons/ru/stskids.png" group-title="Детские",СТС Kids HD
-#EXTGRP:Детские
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/sts-kids-hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="ginger-hd" tvg-logo="https://st.playtv.pro/picons/ru/kapitan_fantastika.png" group-title="Детские",Капитан Фантастика HD
-#EXTGRP:Детские
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/kapitan-fantastika/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="v-gostiax-u-skazki" tvg-logo="https://st.playtv.pro/picons/ru/vgosusk.png" group-title="Детские",В гостях у сказки
-#EXTGRP:Детские
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/vgosuskaz/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="o_" tvg-logo="https://st.playtv.pro/picons/ru/o!.png" group-title="Детские",O!
-#EXTGRP:Детские
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/o_/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="cartoon-network" tvg-logo="https://st.playtv.pro/picons/ru/cartoonnetwork.ru.png" group-title="Детские",Cartoon Network
-#EXTGRP:Детские
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/cartoon-network/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="disney" tvg-logo="https://st.playtv.pro/picons/ru/disney_channel.png" group-title="Детские",Disney
-#EXTGRP:Детские
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/disney/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="nickelodeon-hd" tvg-logo="https://st.playtv.pro/picons/upl/nickelodeon-hd.png" group-title="Детские",Nick HD
-#EXTGRP:Детские
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/nickelodeon-hd/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="nickelodeon-ru" tvg-logo="https://st.playtv.pro/picons/upl/nickelodeon-ru.png" group-title="Детские",Nick
-#EXTGRP:Детские
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/nickelodeon-ru/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="nick-jr" tvg-logo="https://st.playtv.pro/picons/ru/nick-jr.png" group-title="Детские",Nick Jr.
-#EXTGRP:Детские
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/nick-jr/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="2na2" tvg-logo="https://st.playtv.pro/picons/ru/2x2.png" group-title="Детские",2x2
-#EXTGRP:Детские
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/2na2/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="gulli-girl" tvg-logo="https://st.playtv.pro/picons/ru/gulligirl.png" group-title="Детские",Gulli Girl
-#EXTGRP:Детские
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/gulli-girl/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="jimjam" tvg-logo="https://st.playtv.pro/picons/ru/jimjam.ru.png" group-title="Детские",Jim Jam
-#EXTGRP:Детские
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/jimjam/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="tiji" tvg-logo="https://st.playtv.pro/picons/ru/tiji.png" group-title="Детские",Tiji TV
-#EXTGRP:Детские
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/tiji/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="detsky" tvg-logo="https://st.playtv.pro/picons/upl/detsky.png" group-title="Детские",Уникум
-#EXTGRP:Детские
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/detsky/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="mama" tvg-logo="https://st.playtv.pro/picons/ru/mama.png" group-title="Детские",Мама
-#EXTGRP:Детские
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/mama/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="euronews" tvg-logo="https://st.playtv.pro/picons/ru/euronews.ru.png" group-title="Новости",Euronews
-#EXTGRP:Новости
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/euronews/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="rossia-24" tvg-logo="https://st.playtv.pro/picons/ru/rossia24.png" group-title="Новости",Рoсcия-24
-#EXTGRP:Новости
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/rossia-24/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="moskva-24" tvg-logo="https://st.playtv.pro/picons/ru/moskva24.png" group-title="Новости",Москва 24
-#EXTGRP:Новости
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/moskva-24/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="rtvi" tvg-logo="https://st.playtv.pro/picons/ru/rtvi.png" group-title="Новости",RTVi
-#EXTGRP:Новости
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/rtvi/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="rbk" tvg-logo="https://st.playtv.pro/picons/ru/rbk.png" group-title="Новости",РБK
-#EXTGRP:Новости
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/rbk/video.m3u8
-#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="dozhd" tvg-logo="https://st.playtv.pro/picons/ru/dozhd.png" group-title="Новости",Дождь
-#EXTGRP:Новости
-https://fff.my-smart.club:443/live/s.39083.3bf8d4d513ecc3d918bdbf964738b156e2b6/dozd/video.m3u8
-
-
-
-
-
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",Первый канал HD
+http://78.25.155.47:1309/channel/ORT_HD.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",Первый канал
+http://78.25.155.47:1309/channel/Perv_SD.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",Россия HD
+http://78.25.155.47:1309/channel/Ros_HD.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",РОССИЯ 1
+http://78.25.155.47:1309/channel/Ros1.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",НТВ
+http://78.25.155.47:1309/channel/NTV.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",ТНТ
+http://78.25.155.47:1309/channel/TNT.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",РЕН ТВ
+http://78.25.155.47:1309/channel/REN.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",РОССИЯ 24
+http://78.25.155.47:1309/channel/Ros_24.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",РОССИЯ К
+http://78.25.155.47:1309/channel/Ros_K.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",Моя планета
+http://78.25.155.47:1309/channel/Moya_pl.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",Охота и рыбалка
+http://78.25.155.47:1309/channel/Ohota_i_rib.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",История
+http://78.25.155.47:1309/channel/Istoria.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",Наука
+http://78.25.155.47:1309/channel/Nauka.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",Драйв
+http://78.25.155.47:1309/channel/Drive.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)" tvg-logo="https://fast.ntvplus.tv/files/image/75/45/02/-channel!qds.png",TERRA
+http://78.25.155.47:1309/channel/Nat_geo.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)" tvg-logo="https://fast.ntvplus.tv/files/image/75/45/02/-channel!qds.png",TERRA
+http://78.25.155.47:1309/channel/Nat_geo_HD.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",Звезда
+http://78.25.155.47:1309/channel/Zvezda.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",Сарафан
+http://78.25.155.47:1309/channel/Sarafan.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",Усадьба
+http://78.25.155.47:1309/channel/Usadba.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",РОДНОЕ КИНО
+http://78.25.155.47:1309/channel/Nashe_kino.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",НАШЕ НОВОЕ КИНО
+http://78.25.155.47:1309/channel/Kinohit.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",ИНДИЙСКОЕ КИНО
+http://78.25.155.47:1309/channel/India.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",КИНОМИКС
+http://78.25.155.47:1309/channel/Kino_plus.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",КИНОСЕРИЯ
+http://78.25.155.47:1309/channel/Mnogoser.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",СТС
+http://78.25.155.47:1309/channel/STS.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",2x2
+http://78.25.155.47:1309/channel/2x2.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",Ретро
+http://78.25.155.47:1309/channel/Retro.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",ТВ3
+http://78.25.155.47:1309/channel/TV3.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",TV XXI
+http://78.25.155.47:1309/channel/TV-21.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",ТВЦ
+http://78.25.155.47:1309/channel/TVC.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",360°
+http://78.25.155.47:1309/channel/360.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)" tvg-logo="https://fast.ntvplus.tv/files/image/75/44/79/-channel!2a4.png",КИНЕКО
+http://78.25.155.47:1309/channel/FOX.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)" tvg-logo="https://fast.ntvplus.tv/files/image/75/44/93/-channel!1zp.png",САПФИР
+http://78.25.155.47:1309/channel/FOX_life.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",Телекафе
+http://78.25.155.47:1309/channel/Telecafe.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",Ю
+http://78.25.155.47:1309/channel/U.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",ОТР
+http://78.25.155.47:1309/channel/OTR.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",Че
+http://78.25.155.47:1309/channel/Che.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",РБК
+http://78.25.155.47:1309/channel/RBK.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",Спас
+http://78.25.155.47:1309/channel/Spas.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",Зоопарк
+http://78.25.155.47:1309/channel/zoo.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",Shop 24
+http://78.25.155.47:1309/channel/Stil.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",БелРос
+http://78.25.155.47:1309/channel/TRO.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",Вопросы и ответы
+http://78.25.155.47:1309/channel/Vopr_i_otv.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",Дом Кино
+http://78.25.155.47:1309/channel/DOM_kino.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",Домашние животные
+http://78.25.155.47:1309/channel/Dom_jiv.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",Домашний
+http://78.25.155.47:1309/channel/Domash.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",Здоровое ТВ
+http://78.25.155.47:1309/channel/Zdorovoe.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",Иллюзион +
+http://78.25.155.47:1309/channel/Illuz_plus.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",KTV
+http://78.25.155.47:1309/channel/Kolomna.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",Китай ТВ HD
+http://78.25.155.47:1309/channel/ktv.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",МИР
+http://78.25.155.47:1309/channel/MIR.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",Психология 21
+http://78.25.155.47:1309/channel/Psih_21.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",Пятница
+http://78.25.155.47:1309/channel/Piatnica.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",5 КАНАЛ
+http://78.25.155.47:1309/channel/ch5.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",Русский детектив
+http://78.25.155.47:1309/channel/rus_d.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",Русский Иллюзион
+http://78.25.155.47:1309/channel/Rus_illuz.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",Русский Роман
+http://78.25.155.47:1309/channel/Rus_rom.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",Феникс+Кино
+http://78.25.155.47:1309/channel/Feniks.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",Шансон ТВ
+http://78.25.155.47:1309/channel/Shanson.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",Европа Плюс ТВ
+http://78.25.155.47:1309/channel/Evropa_plus.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",Мульт
+http://78.25.155.47:1309/channel/Mult.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",КАРУСЕЛЬ
+http://78.25.155.47:1309/channel/Karusel.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",Мама
+http://78.25.155.47:1309/channel/Mama.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",СОЛНЦЕ
+http://78.25.155.47:1309/channel/Disney.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",Матч ТВ
+http://78.25.155.47:1309/channel/Match.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",Матч! Боец
+http://78.25.155.47:1309/channel/Boec.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",Матч! Игра
+http://78.25.155.47:1309/channel/Sport_2.ts
+#EXTINF:-1 group-title="Коломна-Связь (VPN)",Матч! Страна
+http://78.25.155.47:1309/channel/Sport_plus.ts
