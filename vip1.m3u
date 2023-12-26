@@ -1,7 +1,8 @@
 #EXTM3U url-tvg="http://iptvx.one/EPG_LITE"
 
 
-
+#EXTINF:-1 ,Первый канал
+http://dmi3y-tv.ru/hls/T2/CH_1TV.m3u8
 #EXTINF:-1 ,Россия 1
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 #EXTINF:-1 ,Россия К
@@ -20,151 +21,206 @@ https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 
 
-#EXTINF:-1 ,Viju History HD
-https://livetv.mylifeisgood.net.ru/channels/viasat_history.m3u8
-#EXTINF:-1 ,Viju Nature HD
-https://livetv.mylifeisgood.net.ru/channels/viasat_nature.m3u8
-#EXTINF:-1 ,Viju+ Planet HD
-http://158.101.214.187:8080/channel/n5b8bbb59/index.mpeg?q=103bce48d8fe1dcdb5781d4d42123a60
-#EXTINF:-1 ,Viju Explore HD
-https://livetv.mylifeisgood.net.ru/channels/viasat_explore.m3u8
-#EXTINF:-1 ,Terra HD
-https://livetv.mylifeisgood.net.ru/channels/national_geographic.m3u8
-#EXTINF:-1 ,Тайны Галактики
-https://strm.yandex.ru/kal/tainy_galaktiki_belarus/tainy_galaktiki_belarus0.m3u8
-#EXTINF:-1 ,Nat Geo Wild
-http://158.101.194.132:8888/channel/n35831486/index.mpeg?q=f601bfe6ca637f5e7f8b0c32a2e23796
-#EXTINF:-1 ,Nat Geo Wild HD
-http://158.101.194.132:8888/channel/n4e782350/index.mpeg?q=f601bfe6ca637f5e7f8b0c32a2e23796
-#EXTINF:-1 ,National Geographic
-http://158.101.214.187:8080/channel/7d63f3a3/index.mpeg?q=103bce48d8fe1dcdb5781d4d42123a60
-#EXTINF:-1 ,National Geographic HD
-http://158.101.194.132:8888/channel/n585e75/index.mpeg?q=f601bfe6ca637f5e7f8b0c32a2e23796
-#EXTINF:-1 ,History
-http://158.101.194.132:8888/channel/5c60e25c/index.mpeg?q=f601bfe6ca637f5e7f8b0c32a2e23796
-#EXTINF:-1 ,History2
-http://158.101.194.132:8888/channel/n3858c2f6/index.mpeg?q=f601bfe6ca637f5e7f8b0c32a2e23796
-#EXTINF:-1 ,Discovery Channel HD
-http://158.101.214.187:8080/channel/n599de737/index.mpeg?q=103bce48d8fe1dcdb5781d4d42123a60
-#EXTINF:-1 ,Поехали!
-http://stream-msk-05.ott.tricolor.tv/dtv/id367_MSKSG-PVR-1--Poehali/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MDAyNTUwMDc4MjQwNyIsImV4cCI6MTcwMzMyMzQ5NywiaHdpZCI6IjdlOWY2MzFlOTQwYTRmOTIzMjBhYWRmYzBkYjI3OTJhNmJjMjBmNzIxOWJmNzA2MzBlMzAyZGQxOGIwYzQ1NWQiLCJsYXN0X3JlcV9kYXRlIjoxNzAyNzE4Njk3LCJzZXNzaW9uX2lkIjoiNzQzZWJjODdkOTdhOTUyM2E2Y2MxZjMyNGYwOGFmMmMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KLekTLSGnEYEIzkqF2dVVxRmiFtt0pwdyu20FiEuPiI
-#EXTINF:-1 ,TLC HD
-https://ucdn.beetv.kz/btv/live/hls/000001498.m3u8
-#EXTINF:-1 ,Мужской
-https://strm.yandex.ru/kal/muzhskoi_belarus/muzhskoi_belarus0.m3u8
-#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYto-o2qGNmoUGkuwJzfUuO-4KufIxdM3bgKCuK=s900-c-k-c0x00ffffff-no-rj",Рыбалка и охота
-https://ucdn.beetv.kz/btv/live/hls/000002510.m3u8
-#EXTINF:-1 ,Охота и рыбалка
-http://109.239.208.82:80/ohota/index.m3u8
+
+#EXTINF:-1 ,НТВ Хит
+https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
+#EXTINF:-1 ,НТВ Стиль
+https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
+#EXTINF:-1 ,НТВ Сериал
+https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
+#EXTINF:-1 ,НТВ Право
+https://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
+#EXTINF:-1 ,В мире животных
+https://strm.yandex.ru/kal/v_mire_zhivotnykh_belarus/v_mire_zhivotnykh_belarus0.m3u8
+#EXTINF:-1 ,HD Life
+https://strm.yandex.ru/kal/hd_life_belarus/hd_life_belarus0.m3u8
+#EXTINF:-1 ,Моя Планета
+https://strm.yandex.ru/kal/moya_planeta_hd_belarus/moya_planeta_hd_belarus0.m3u8
 #EXTINF:-1 ,Приключения HD
 https://strm.yandex.ru/kal/prikluchenia_belarus/prikluchenia_belarus0.m3u8
-#EXTINF:-1 ,Авто 24
-https://ucdn.beetv.kz/btv/live/hls/000000815.m3u8
-#EXTINF:-1 ,Техно 24
-https://ucdn.beetv.kz/btv/live/hls/000000008.m3u8
-#EXTINF:-1 ,Моя планета
-https://strm.yandex.ru/kal/moya_planeta_hd_belarus/moya_planeta_hd_belarus0.m3u8
-#EXTINF:-1 ,ОКЕАН ТВ
-https://strm.yandex.ru/kal/ocean_tv_belarus/ocean_tv_belarus0.m3u8
-#EXTINF:-1 ,Первый Космический HD
+#EXTINF:-1 ,Наука 2.0
+https://strm.yandex.ru/kal/nauka_belarus/nauka_belarus0.m3u8
+#EXTINF:-1 ,Galaxy TV
+https://strm.yandex.ru/kal/tainy_galaktiki_belarus/tainy_galaktiki_belarus0.m3u8
+#EXTINF:-1 ,Первый космический
 https://strm.yandex.ru/kal/pervyi_kosmicheskiy_belarus/pervyi_kosmicheskiy_belarus0.m3u8
-#EXTINF:-1 ,Загородная жизнь
-https://ucdn.beetv.kz/btv/live/hls/000000289.m3u8
-#EXTINF:-1 ,Загородный
-https://ucdn.beetv.kz/btv/live/hls/000000235.m3u8
-#EXTINF:-1 ,Живая природа
-https://ucdn.beetv.kz/btv/live/hls/000001187.m3u8
-#EXTINF:-1 ,Психология 21
-https://ucdn.beetv.kz/btv/live/hls/000000147.m3u8
-#EXTINF:-1 ,365 ДНЕЙ
+#EXTINF:-1 ,Охотник и рыболов Int
+https://strm.yandex.ru/kal/ohotnik_rybolov_belarus/ohotnik_rybolov_belarus0.m3u8
+#EXTINF:-1 ,Мужской
+https://strm.yandex.ru/kal/muzhskoi_belarus/muzhskoi_belarus0.m3u8
+#EXTINF:-1 ,365 Дней ТВ
 https://strm.yandex.ru/kal/365_dnei_tv_belarus/365_dnei_tv_belarus0.m3u8
 #EXTINF:-1 ,Кто есть кто
 https://strm.yandex.ru/kal/kto_est_kto_belarus/kto_est_kto_belarus0.m3u8
-#EXTINF:-1 ,Совершенно секретно
-https://livetv.mylifeisgood.net.ru/channels/sovsec127.m3u8
-#EXTINF:-1 ,RTG
+#EXTINF:-1 ,Ocean TV
+https://strm.yandex.ru/kal/ocean_tv_belarus/ocean_tv_belarus0.m3u8
+#EXTINF:-1 ,RTG HD
 https://strm.yandex.ru/kal/rtg/rtg0.m3u8
+#EXTINF:-1 ,Наша сибирь HD
+https://strm.yandex.ru/kal/sibir/sibir0.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
 https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
-#EXTINF:-1 ,Наша Сибирь HD
-https://strm.yandex.ru/kal/sibir/sibir0.m3u8
-#EXTINF:-1 ,Глазами туриста HD
-https://ucdn.beetv.kz/btv/live/hls/000001414.m3u8
-#EXTINF:-1 ,Оружие
-https://livetv.mylifeisgood.net.ru/channels/oruzhie.m3u8
-#EXTINF:-1 ,Загородный Int
-https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
-#EXTINF:-1 ,Арсенал HD
-http://cdn-lb.iptv2022.com/p/5ImdOCRLD83nHhjaP4dHwg,1688590815/streaming/multikhd/324/1/index.m3u8
-#EXTINF:-1 ,ЦТВ
-http://cdn-lb.iptv2022.com/p/HDz-Y-eDaZi4o47pShlhWA,1672887357/streaming/centrtv/324/1/index.m3u8
-#EXTINF:-1 ,Дикая охота HD
-http://cdn-lb.iptv2022.com/p/r67VbDHry54LDjhyXmUNcQ,1686070926/streaming/ohotahd/324/1/index.m3u8
-#EXTINF:-1 ,Дикая рыбалка HD
-http://cdn-lb.iptv2022.com/p/wAuqSARQCGm-eF3eJxSmgA,1686070926/streaming/ribalkahd/324/1/index.m3u8
-#EXTINF:-1 ,Охотник и рыболов HD
-http://cdn-lb.iptv2022.com/p/t9SKBKWvXBfoIsgNsnaD3Q,1686070926/streaming/ohotnikhd/324/1/index.m3u8
-#EXTINF:-1 ,Ключ
-http://cdn-lb.iptv2022.com/p/Kg26Non3MZUNhqSTTOZ2cg,1674889058/streaming/kluchhd/324/1/index.m3u8
-#EXTINF:-1 ,В мире животных HD
-http://cdn-lb.iptv2022.com/p/xuO8i06uXOHiK6hdInGvsg,1693083614/streaming/animalshd/324/1/index.m3u8
-#EXTINF:-1 ,Телепутешествия
-http://cdn-lb.iptv2022.com/p/vz2VpViG2ZQnmQAnmTi9mA,1688590818/streaming/adventure/324/1/index.m3u8
-#EXTINF:-1 ,Travel+ Adventure HD
-http://cdn-lb.iptv2022.com/p/2ckixnVZOFCq9cDCH_zXsA,1696885213/streaming/travelhd/324/1/index.m3u8
+#EXTINF:-1 ,Беларусь 1
+https://strm.yandex.ru/kal/belarus_1/belarus_10.m3u8
+#EXTINF:-1 ,Беларусь 2
+https://strm.yandex.ru/kal/belarus_2/belarus_20.m3u8
+#EXTINF:-1 ,Беларусь 3
+https://strm.yandex.ru/kal/belarus_3/belarus_30.m3u8
+#EXTINF:-1 ,СТВ
+https://strm.yandex.ru/kal/stv_belarus/stv_belarus0.m3u8
+#EXTINF:-1 ,ТВ-3 Беларусь
+https://strm.yandex.ru/kal/tv3_belarus/tv3_belarus0.m3u8
+#EXTINF:-1 ,ОНТ Беларусь
+https://strm.yandex.ru/kal/ont_belarus/ont_belarus0.m3u8
+#EXTINF:-1 ,НТВ Беларусь
+https://strm.yandex.ru/kal/ntv_belarus/ntv_belarus0.m3u8
+#EXTINF:-1 ,РТР Беларусь
+https://strm.yandex.ru/kal/rtr_belarus/rtr_belarus0.m3u8
+#EXTINF:-1 ,ТНТ International
+https://strm.yandex.ru/kal/tnt_interneshnl_belarus/tnt_interneshnl_belarus0.m3u8
+#EXTINF:-1 ,Fashion TV
+https://strm.yandex.ru/kal/fashion_tv/fashion_tv0.m3u8
+#EXTINF:-1 ,Кинопремьера
+https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
+#EXTINF:-1 ,Кинохит
+https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8
+#EXTINF:-1 ,Киномикс
+https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
+#EXTINF:-1 ,Мужское кино
+https://strm.yandex.ru/kal/muzhskoe_kino_belarus/muzhskoe_kino_belarus0.m3u8
+#EXTINF:-1 ,Киносемья
+https://strm.yandex.ru/kal/kinosemya_belarus/kinosemya_belarus0.m3u8
+#EXTINF:-1 ,Кинокомедия
+https://strm.yandex.ru/kal/kinokomedia_belarus/kinokomedia_belarus0.m3u8
+#EXTINF:-1 ,Киносвидание
+https://strm.yandex.ru/kal/kinosvidanie_sd_belarus/kinosvidanie_sd_belarus0.m3u8
+#EXTINF:-1 ,Наше новое кино
+https://strm.yandex.ru/kal/nashe_novoe_kino_belarus/nashe_novoe_kino_belarus0.m3u8
+#EXTINF:-1 ,Родное кино
+https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
+#EXTINF:-1 ,Киносерия
+https://strm.yandex.ru/kal/kinoseria_belarus/kinoseria_belarus0.m3u8
+#EXTINF:-1 ,Индийское кино
+https://strm.yandex.ru/kal/indiiskoe_kino_belarus/indiiskoe_kino_belarus0.m3u8
+#EXTINF:-1 ,Bollywood
+https://strm.yandex.ru/kal/bollywood_belarus/bollywood_belarus0.m3u8
+#EXTINF:-1 ,Timeless Dizi Channel
+https://strm.yandex.ru/kal/timeless_dizi_channel_belarus/timeless_dizi_channel_belarus0.m3u8
+#EXTINF:-1 ,Киноман
+https://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
+#EXTINF:-1 ,TV XXI
+https://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
+#EXTINF:-1 ,CINEMA
+https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
+#EXTINF:-1 ,Hollywood HD
+https://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
+#EXTINF:-1 ,НСТ
+https://strm.yandex.ru/kal/nst_belarus/nst_belarus0.m3u8
+#EXTINF:-1 ,Т24
+https://strm.yandex.ru/kal/t24_belarus/t24_belarus0.m3u8
+#EXTINF:-1 ,Арсенал
+https://strm.yandex.ru/kal/arsenal_belarus/arsenal_belarus0.m3u8
+#EXTINF:-1 ,360 Новости
+https://strm.yandex.ru/kal/360news/360news0.m3u8
+#EXTINF:-1 ,360°
+https://strm.yandex.ru/kal/360tv/360tv0.m3u8
+#EXTINF:-1 ,МИР
+https://strm.yandex.ru/kal/mir_belarus/mir_belarus0.m3u8
+#EXTINF:-1 ,МИР 24
+https://strm.yandex.ru/kal/mir24/mir240.m3u8
+#EXTINF:-1 ,2x2
+https://strm.yandex.ru/kal/2x2_belarus/2x2_belarus0.m3u8
+#EXTINF:-1 ,5 канал international
+https://strm.yandex.ru/kal/5_kanal_int_belarus/5_kanal_int_belarus0.m3u8
+#EXTINF:-1 ,Сарафан
+https://strm.yandex.ru/kal/sarahfan_belarus/sarahfan_belarus0.m3u8
+#EXTINF:-1 ,КВН ТВ
+https://strm.yandex.ru/kal/kvn_tv_belarus/kvn_tv_belarus0.m3u8
+#EXTINF:-1 ,Ностальгия
+https://strm.yandex.ru/kal/nostalgia_belarus/nostalgia_belarus0.m3u8
 #EXTINF:-1 ,Авто Плюс
-https://tbs01-edge11.itdc.ge/autoplus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,HDL
-https://tbs01-edge11.itdc.ge/hdlife/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ZooПарк
-http://109.239.208.82:80/zoo/index.m3u8
-#EXTINF:-1 ,Драйв
-http://109.239.208.82:80/drive/index.m3u8
-#EXTINF:-1 ,Живая Планета
-http://109.239.208.82:80/liveplanet/index.m3u8
-#EXTINF:-1 ,История
-http://109.239.208.82:80/history/index.m3u8
-#EXTINF:-1 ,Точка отрыва
-http://109.239.208.82:80/tochka/index.m3u8
-#EXTINF:-1 ,Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 ,DTX HD
-http://158.101.214.187:8080/channel/19422747/index.mpeg?q=103bce48d8fe1dcdb5781d4d42123a60
-#EXTINF:-1 ,Наука 2.0
-https://strm.yandex.ru/kal/nauka_belarus/nauka_belarus0.m3u8
-#EXTINF:-1 ,Зоо ТВ
-http://moobl.ru/hls/Zoo_tv.m3u8
-#EXTINF:-1 ,Discovery Science
-http://158.101.194.132:8888/channel/390907b2/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
-#EXTINF:-1 ,ID Xtra Европа
-http://cdn01.ath.cx:2500/live/idxtra?token=b47f617d7dfc1ab821cf4dc0bad23861
-#EXTINF:-1  tvg-logo="https://e7.pngegg.com/pngimages/72/207/png-clipart-nasa-logo-nasa-insignia-logo-national-advisory-committee-for-aeronautics-goes-16-nasa-miscellaneous-blue.png",NASA
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 ,Большая Азия
-https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Travel Guide-TV
-http://cdn10.live-tv.cloud:8081/leonovtv/test1/chunks.m3u8
-#EXTINF:-1 ,Доктор
-http://45.144.31.195:8004/playlist.m3u8
-#EXTINF:-1 ,VIJU+ PREMIERE HD
-https://livetv.mylifeisgood.net.ru/channels/vip_premiere.m3u8
-#EXTINF:-1 ,VIJU+ MEGAHIT HD
-https://livetv.mylifeisgood.net.ru/channels/vip_megahit.m3u8
-#EXTINF:-1 ,VIJU+ COMEDY HD
-https://livetv.mylifeisgood.net.ru/channels/vip_comedy.m3u8
-#EXTINF:-1 ,VIJU+ SERIAL HD
-https://livetv.mylifeisgood.net.ru/channels/vip_serial.m3u8
-#EXTINF:-1 ,Феникс+ Кино
-https://livetv.mylifeisgood.net.ru/channels/fenixkino.m3u8
-#EXTINF:-1 ,Кинеко
-https://livetv.mylifeisgood.net.ru/channels/fox.m3u8
-#EXTINF:-1 ,Сапфир
-https://livetv.mylifeisgood.net.ru/channels/foxlife.m3u8
-#EXTINF:-1  tvg-logo="https://northernlifefamilymagazine.co.uk/wp-content/uploads/2017/03/Family-logo-retina.png",VIP FAMILY
-https://tbs01-edge17.itdc.ge/tv5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,TV 1000 Русское Кино
-https://livetv.mylifeisgood.net.ru/channels/tv1000ruskino.m3u8
-#EXTINF:-1 ,TV 1000
-https://livetv.mylifeisgood.net.ru/channels/tv1000.m3u8
-#EXTINF:-1 ,TV 1000 Action
-https://livetv.mylifeisgood.net.ru/channels/tv1000action.m3u8
+https://strm.yandex.ru/kal/avto_plus_belarus/avto_plus_belarus0.m3u8
+#EXTINF:-1 ,Загородная жизнь
+https://strm.yandex.ru/kal/zagorodnaia_zhizn_belarus/zagorodnaia_zhizn_belarus0.m3u8
+#EXTINF:-1 ,Еда Премиум
+https://strm.yandex.ru/kal/eda_premium_int_belarus/eda_premium_int_belarus0.m3u8
+#EXTINF:-1 ,Кухня ТВ
+https://strm.yandex.ru/kal/kukhnia_tv_belarus/kukhnia_tv_belarus0.m3u8
+#EXTINF:-1 ,Живи!
+https://strm.yandex.ru/kal/zhivi_belarus/zhivi_belarus0.m3u8
+#EXTINF:-1 ,Fashion & Lifestyle
+https://strm.yandex.ru/kal/fashion_lifestyle_belarus/fashion_lifestyle_belarus0.m3u8
+#EXTINF:-1 ,Ю
+https://strm.yandex.ru/kal/utv/utv0.m3u8
+#EXTINF:-1 ,Капитан Фантастика
+https://strm.yandex.ru/kal/kapitan_fantastika_belarus/kapitan_fantastika_belarus0.m3u8
+#EXTINF:-1 ,Duck TV
+https://strm.yandex.ru/kal/ducktv_belarus/ducktv_belarus0.m3u8
+#EXTINF:-1 ,Мульт
+https://strm.yandex.ru/kal/mult_belarus/mult_belarus0.m3u8
+#EXTINF:-1 ,Tiji
+https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
+#EXTINF:-1 ,Gulli Girl
+https://strm.yandex.ru/kal/gulli_girl_belarus/gulli_girl_belarus0.m3u8
+#EXTINF:-1 ,Рыжий
+https://strm.yandex.ru/kal/ryzhii_sd_belarus/ryzhii_sd_belarus0.m3u8
+#EXTINF:-1 ,Лёва
+http://strm.yandex.ru/kal/leva/leva0.m3u8
+#EXTINF:-1 ,Мультиландия
+https://strm.yandex.ru/kal/multilandia/multilandia0.m3u8
+#EXTINF:-1 ,В гостях у сказки
+https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
+#EXTINF:-1 ,Baby Time
+http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
+#EXTINF:-1 ,БелМузТВ
+https://strm.yandex.ru/kal/belmuztv/belmuztv0.m3u8
+#EXTINF:-1 ,Europa Plus TV
+https://strm.yandex.ru/kal/europa_plus_tv/europa_plus_tv0.m3u8
+#EXTINF:-1 ,Bridge TV Deluxe
+https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
+#EXTINF:-1 ,Bridge TV
+https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
+#EXTINF:-1 ,Bridge TV Classic
+https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
+#EXTINF:-1 ,Bridge TV Rock
+https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
+#EXTINF:-1 ,BRIDGE TV HITS
+https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
+#EXTINF:-1 ,BRIDGE TV Русский Хит
+https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
+#EXTINF:-1 ,Bridge TV Шлягер
+https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
+#EXTINF:-1 ,RU.TV
+https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
+#EXTINF:-1 ,Жара
+https://strm.yandex.ru/kal/ot_rassveta_do_zakata_zhara/ot_rassveta_do_zakata_zhara0.m3u8
+#EXTINF:-1 ,Ля-минор
+https://strm.yandex.ru/kal/la_minor_belarus/la_minor_belarus0.m3u8
+#EXTINF:-1 ,Russian MusicBox
+https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
+#EXTINF:-1 ,MusicBox Gold
+https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
+#EXTINF:-1 ,ТНТ MUSIC
+https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
+#EXTINF:-1 ,Russian Extreme
+https://strm.yandex.ru/kal/russkoe_ekstremalnoe_tv_belarus/russkoe_ekstremalnoe_tv_belarus0.m3u8
+#EXTINF:-1  ,Старт Триумф
+https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
+#EXTINF:-1 ,Старт HD
+https://strm.yandex.ru/kal/start/start0.m3u8
+#EXTINF:-1 ,Удар
+https://strm.yandex.ru/kal/udar/udar0.m3u8
+#EXTINF:-1 ,MMA-TV.COM
+https://strm.yandex.ru/kal/mma_tv_belarus/mma_tv_belarus0.m3u8
+#EXTINF:-1 ,Бокс ТВ
+https://strm.yandex.ru/kal/boks_tv_plus_belarus/boks_tv_plus_belarus0.m3u8
+#EXTINF:-1 ,Матч! Планета
+https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
+#EXTINF:-1 ,Футбол
+https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
+#EXTINF:-1 ,Беларусь 5
+https://strm.yandex.ru/kal/belarus_5/belarus_50.m3u8
+#EXTINF:-1 ,KHL
+https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
+#EXTINF:-1 ,KHL Prime
+https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
