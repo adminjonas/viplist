@@ -1,5 +1,29 @@
 #EXTM3U url-tvg="http://iptvx.one/EPG_LITE"
 
+#EXTINF:-1 ,Russian Extreme
+https://strm.yandex.ru/kal/russkoe_ekstremalnoe_tv_belarus/russkoe_ekstremalnoe_tv_belarus0.m3u8
+#EXTINF:-1  ,Старт Триумф
+https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
+#EXTINF:-1 ,Старт HD
+https://strm.yandex.ru/kal/start/start0.m3u8
+#EXTINF:-1 ,Удар
+https://strm.yandex.ru/kal/udar/udar0.m3u8
+#EXTINF:-1 ,MMA-TV.COM
+https://strm.yandex.ru/kal/mma_tv_belarus/mma_tv_belarus0.m3u8
+#EXTINF:-1 ,Бокс ТВ
+https://strm.yandex.ru/kal/boks_tv_plus_belarus/boks_tv_plus_belarus0.m3u8
+#EXTINF:-1 ,Матч! Планета
+https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
+#EXTINF:-1 ,Футбол
+https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
+#EXTINF:-1 ,Беларусь 5
+https://strm.yandex.ru/kal/belarus_5/belarus_50.m3u8
+#EXTINF:-1 ,KHL
+https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
+#EXTINF:-1 ,KHL Prime
+https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
+
+
 #EXTINF:-1 ,Bridge TV Deluxe
 https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
 #EXTINF:-1 ,Bridge TV
