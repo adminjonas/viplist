@@ -1,5 +1,19 @@
 #EXTM3U url-tvg="http://iptvx.one/EPG_LITE"
 
+#EXTINF:-1 ,Беларусь 1
+https://strm.yandex.ru/kal/belarus_1/belarus_10.m3u8
+#EXTINF:-1 ,Беларусь 2
+https://strm.yandex.ru/kal/belarus_2/belarus_20.m3u8
+#EXTINF:-1 ,Беларусь 3
+https://strm.yandex.ru/kal/belarus_3/belarus_30.m3u8
+#EXTINF:-1 ,СТВ
+https://strm.yandex.ru/kal/stv_belarus/stv_belarus0.m3u8
+#EXTINF:-1 ,ТВ-3 Беларусь
+https://strm.yandex.ru/kal/tv3_belarus/tv3_belarus0.m3u8
+#EXTINF:-1 ,ОНТ Беларусь
+https://strm.yandex.ru/kal/ont_belarus/ont_belarus0.m3u8
+
+
 #EXTINF:-1 ,Russian Extreme
 https://strm.yandex.ru/kal/russkoe_ekstremalnoe_tv_belarus/russkoe_ekstremalnoe_tv_belarus0.m3u8
 #EXTINF:-1  ,Старт Триумф
